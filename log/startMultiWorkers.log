@@ -1,0 +1,281 @@
+2017-07-13 22:36:03,982 [MainThread  ] [INFO ]  Starting multi-workers...
+2017-07-13 22:36:04,010 [MainThread  ] [INFO ]    Append thread:7335
+2017-07-13 22:36:04,011 [MainThread  ] [INFO ]    Append thread:7344
+2017-07-13 22:36:04,011 [MainThread  ] [INFO ]    Append thread:7346
+2017-07-13 22:36:04,012 [MainThread  ] [INFO ]    Append thread:7340
+2017-07-13 22:36:04,012 [MainThread  ] [INFO ]    Append thread:7337
+2017-07-13 22:36:04,012 [MainThread  ] [INFO ]    Append thread:7330
+2017-07-13 22:36:04,012 [MainThread  ] [INFO ]    Append thread:7348
+2017-07-13 22:36:04,013 [MainThread  ] [INFO ]    Append thread:7339
+2017-07-13 22:36:04,013 [MainThread  ] [INFO ]    Append thread:7332
+2017-07-13 22:36:04,013 [MainThread  ] [INFO ]    Append thread:7341
+2017-07-13 22:36:04,013 [MainThread  ] [INFO ]    Append thread:7334
+2017-07-13 22:36:04,014 [MainThread  ] [INFO ]    Append thread:7343
+2017-07-13 22:36:04,014 [MainThread  ] [INFO ]    Append thread:7336
+2017-07-13 22:36:04,014 [MainThread  ] [INFO ]    Append thread:7345
+2017-07-13 22:36:04,014 [MainThread  ] [INFO ]    Append thread:7347
+2017-07-13 22:36:04,014 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,015 [MainThread  ] [INFO ]    Append thread:7338
+2017-07-13 22:36:04,015 [MainThread  ] [INFO ]    Append thread:7331
+2017-07-13 22:36:04,015 [MainThread  ] [INFO ]    Append thread:7329
+2017-07-13 22:36:04,016 [MainThread  ] [INFO ]    Append thread:7333
+2017-07-13 22:36:04,012 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,014 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,014 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,023 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,016 [MainThread  ] [INFO ]    Append thread:7342
+2017-07-13 22:36:04,015 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,035 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7330' started, version 0.8.0
+2017-07-13 22:36:04,022 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,039 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,026 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,037 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7332' started, version 0.8.0
+2017-07-13 22:36:04,044 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,045 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,048 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,048 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,052 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,057 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,050 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,052 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,061 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7329' started, version 0.8.0
+2017-07-13 22:36:04,052 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,053 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,053 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,053 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,053 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7333' started, version 0.8.0
+2017-07-13 22:36:04,054 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,054 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,054 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,059 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7335' started, version 0.8.0
+2017-07-13 22:36:04,060 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,055 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,062 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7331' started, version 0.8.0
+2017-07-13 22:36:04,096 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,065 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7334' started, version 0.8.0
+2017-07-13 22:36:04,065 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,100 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7346' started, version 0.8.0
+2017-07-13 22:36:04,066 [MainThread  ] [INFO ]  this is worker
+2017-07-13 22:36:04,068 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,102 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,070 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7343' started, version 0.8.0
+2017-07-13 22:36:04,104 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7336' started, version 0.8.0
+2017-07-13 22:36:04,071 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7337' started, version 0.8.0
+2017-07-13 22:36:04,072 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7347' started, version 0.8.0
+2017-07-13 22:36:04,077 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,078 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,109 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,084 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,111 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,087 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7339' started, version 0.8.0
+2017-07-13 22:36:04,088 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7344' started, version 0.8.0
+2017-07-13 22:36:04,100 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,100 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,101 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,124 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (3fb40a0e-5b4a-471f-a0b7-9ec3f8dcacee)
+2017-07-13 22:36:04,105 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,125 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,108 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (49820f4c-2e9f-40d3-884e-a7bacde9d9d1)
+2017-07-13 22:36:04,108 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7348' started, version 0.8.0
+2017-07-13 22:36:04,112 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,112 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,126 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,128 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,109 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,113 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,113 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,130 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,131 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,131 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,113 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7338' started, version 0.8.0
+2017-07-13 22:36:04,114 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7342' started, version 0.8.0
+2017-07-13 22:36:04,115 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7345' started, version 0.8.0
+2017-07-13 22:36:04,117 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,134 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,117 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7341' started, version 0.8.0
+2017-07-13 22:36:04,120 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,120 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,121 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.7340' started, version 0.8.0
+2017-07-13 22:36:04,137 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,123 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,127 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,128 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,128 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,128 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,128 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,130 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,140 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,131 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,143 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,144 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,145 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,146 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,132 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,133 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,147 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,133 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,135 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,135 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,149 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,136 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,136 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,138 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,141 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,144 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,143 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,145 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,156 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,157 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,159 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,146 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,147 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,149 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,149 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,151 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,152 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,154 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (45dbbab3-ff19-4fd8-89df-6358ec3c19ba)
+2017-07-13 22:36:04,171 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,155 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (4e7850bb-b485-43a4-a45f-65e1400de123)
+2017-07-13 22:36:04,155 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,179 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,157 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,180 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,160 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,161 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,163 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-13 22:36:04,163 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (4cc355d7-77bb-45b3-8845-69778c304405)
+2017-07-13 22:36:04,182 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,183 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,164 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (0076af29-ee89-47f7-b160-6a7a97f0ab8c)
+2017-07-13 22:36:04,170 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,188 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,170 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,172 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,176 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,189 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,189 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,190 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,190 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,178 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (85fdc3b0-1bf1-4ba7-8d29-e3f65a45c5ba)
+2017-07-13 22:36:04,179 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,180 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (c7836535-e23f-435a-9f71-f10b4bd1baf1)
+2017-07-13 22:36:04,192 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,181 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,183 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-13 22:36:04,186 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (6a930064-ae7a-4c09-a852-182ec6ba52c2)
+2017-07-13 22:36:04,194 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-13 22:36:04,195 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,195 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,187 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (1a79da3a-e110-415e-9462-6dda6ed01e71)
+2017-07-13 22:36:04,190 [MainThread  ] [INFO ]  
+2017-07-13 22:36:04,197 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:04,449 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:36:04,496 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:36:04,506 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:36:04,521 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:36:04,556 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:36:04,558 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:36:04,580 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:36:04,581 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:36:04,588 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:36:04,591 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:36:09,744 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (6a930064-ae7a-4c09-a852-182ec6ba52c2)
+2017-07-13 22:36:09,744 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (4e7850bb-b485-43a4-a45f-65e1400de123)
+2017-07-13 22:36:09,746 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (49820f4c-2e9f-40d3-884e-a7bacde9d9d1)
+2017-07-13 22:36:09,745 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (c7836535-e23f-435a-9f71-f10b4bd1baf1)
+2017-07-13 22:36:09,747 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (85fdc3b0-1bf1-4ba7-8d29-e3f65a45c5ba)
+2017-07-13 22:36:09,747 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:36:09,746 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (0076af29-ee89-47f7-b160-6a7a97f0ab8c)
+2017-07-13 22:36:09,749 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:36:09,750 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:36:09,747 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:36:09,747 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:36:09,748 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:36:09,754 [MainThread  ] [INFO ]  
+2017-07-13 22:36:09,751 [MainThread  ] [INFO ]  
+2017-07-13 22:36:09,755 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:09,756 [MainThread  ] [INFO ]  
+2017-07-13 22:36:09,756 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:09,751 [MainThread  ] [INFO ]  
+2017-07-13 22:36:09,758 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:09,758 [MainThread  ] [INFO ]  
+2017-07-13 22:36:09,759 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:09,751 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (45dbbab3-ff19-4fd8-89df-6358ec3c19ba)
+2017-07-13 22:36:09,754 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (3fb40a0e-5b4a-471f-a0b7-9ec3f8dcacee)
+2017-07-13 22:36:09,755 [MainThread  ] [INFO ]  
+2017-07-13 22:36:09,761 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:36:09,755 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:09,760 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:36:09,761 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:09,761 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (1a79da3a-e110-415e-9462-6dda6ed01e71)
+2017-07-13 22:36:09,761 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (4cc355d7-77bb-45b3-8845-69778c304405)
+2017-07-13 22:36:09,764 [MainThread  ] [INFO ]  
+2017-07-13 22:36:09,764 [MainThread  ] [INFO ]  
+2017-07-13 22:36:09,765 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:09,764 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:36:09,764 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:36:09,765 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:09,768 [MainThread  ] [INFO ]  
+2017-07-13 22:36:09,769 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:36:09,771 [MainThread  ] [INFO ]  
+2017-07-13 22:36:09,771 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:37:16,386 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (9a2998ef-73c5-4953-add9-2e10d69a632e)
+2017-07-13 22:37:16,392 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (19617fa1-8dea-4720-a037-a2591530663b)
+2017-07-13 22:37:16,399 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (cb08fe1e-8012-442f-a41a-5682a5e690ab)
+2017-07-13 22:37:16,402 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (f79cfc5c-98ed-4992-87cc-742439503442)
+2017-07-13 22:37:16,404 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (de8c535b-8f60-4112-8ac8-5ccf1d9c521e)
+2017-07-13 22:37:16,406 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (024d4313-4e31-4d11-84bd-21338f4bb2a2)
+2017-07-13 22:37:16,408 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (aa0db557-542c-4629-afc4-5f5946d4b2d8)
+2017-07-13 22:37:16,410 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (122ce32a-c708-430c-9c63-0331935f6e0f)
+2017-07-13 22:37:16,410 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (62777483-c396-4e16-a4d0-03193e4f529c)
+2017-07-13 22:37:16,411 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (e4589fad-aed3-4614-8100-128ed6cf5bd5)
+2017-07-13 22:37:16,665 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:37:16,688 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:37:16,698 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:37:16,790 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:37:16,801 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:37:16,802 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:37:16,811 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:37:16,815 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:37:16,818 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:37:16,823 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-13 22:37:21,818 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (9a2998ef-73c5-4953-add9-2e10d69a632e)
+2017-07-13 22:37:21,818 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:37:21,821 [MainThread  ] [INFO ]  
+2017-07-13 22:37:21,822 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:37:21,860 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (aa0db557-542c-4629-afc4-5f5946d4b2d8)
+2017-07-13 22:37:21,860 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:37:21,861 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (62777483-c396-4e16-a4d0-03193e4f529c)
+2017-07-13 22:37:21,862 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:37:21,864 [MainThread  ] [INFO ]  
+2017-07-13 22:37:21,865 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:37:21,866 [MainThread  ] [INFO ]  
+2017-07-13 22:37:21,867 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:37:21,902 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (122ce32a-c708-430c-9c63-0331935f6e0f)
+2017-07-13 22:37:21,903 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:37:21,905 [MainThread  ] [INFO ]  
+2017-07-13 22:37:21,906 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:37:22,013 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (19617fa1-8dea-4720-a037-a2591530663b)
+2017-07-13 22:37:22,014 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:37:22,014 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (024d4313-4e31-4d11-84bd-21338f4bb2a2)
+2017-07-13 22:37:22,014 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:37:22,015 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (e4589fad-aed3-4614-8100-128ed6cf5bd5)
+2017-07-13 22:37:22,016 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:37:22,017 [MainThread  ] [INFO ]  
+2017-07-13 22:37:22,018 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:37:22,017 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (de8c535b-8f60-4112-8ac8-5ccf1d9c521e)
+2017-07-13 22:37:22,019 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:37:22,019 [MainThread  ] [INFO ]  
+2017-07-13 22:37:22,019 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:37:22,022 [MainThread  ] [INFO ]  
+2017-07-13 22:37:22,022 [MainThread  ] [INFO ]  
+2017-07-13 22:37:22,023 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:37:22,023 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (f79cfc5c-98ed-4992-87cc-742439503442)
+2017-07-13 22:37:22,022 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:37:22,023 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (cb08fe1e-8012-442f-a41a-5682a5e690ab)
+2017-07-13 22:37:22,023 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:37:22,024 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-13 22:37:22,027 [MainThread  ] [INFO ]  
+2017-07-13 22:37:22,028 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-13 22:37:22,027 [MainThread  ] [INFO ]  
+2017-07-13 22:37:22,029 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
