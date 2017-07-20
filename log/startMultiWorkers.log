@@ -279,3 +279,754 @@
 2017-07-13 22:37:22,028 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
 2017-07-13 22:37:22,027 [MainThread  ] [INFO ]  
 2017-07-13 22:37:22,029 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:58,979 [MainThread  ] [INFO ]  Starting multi-workers...
+2017-07-20 00:53:59,013 [MainThread  ] [INFO ]    Append thread:3087
+2017-07-20 00:53:59,015 [MainThread  ] [INFO ]    Append thread:3080
+2017-07-20 00:53:59,015 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,022 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,026 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,015 [MainThread  ] [INFO ]    Append thread:3078
+2017-07-20 00:53:59,016 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,033 [MainThread  ] [INFO ]    Append thread:3089
+2017-07-20 00:53:59,034 [MainThread  ] [INFO ]    Append thread:3082
+2017-07-20 00:53:59,035 [MainThread  ] [INFO ]    Append thread:3091
+2017-07-20 00:53:59,017 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,017 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,018 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,019 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,019 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,020 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,020 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,021 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,021 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,022 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,023 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,024 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,025 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,025 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,025 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,071 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3083' started, version 0.8.0
+2017-07-20 00:53:59,067 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3092' started, version 0.8.0
+2017-07-20 00:53:59,026 [MainThread  ] [INFO ]  this is worker
+2017-07-20 00:53:59,034 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3078' started, version 0.8.0
+2017-07-20 00:53:59,046 [MainThread  ] [INFO ]    Append thread:3084
+2017-07-20 00:53:59,081 [MainThread  ] [INFO ]    Append thread:3093
+2017-07-20 00:53:59,082 [MainThread  ] [INFO ]    Append thread:3095
+2017-07-20 00:53:59,083 [MainThread  ] [INFO ]    Append thread:3086
+2017-07-20 00:53:59,085 [MainThread  ] [INFO ]    Append thread:3079
+2017-07-20 00:53:59,048 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3097' started, version 0.8.0
+2017-07-20 00:53:59,049 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3080' started, version 0.8.0
+2017-07-20 00:53:59,088 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3081' started, version 0.8.0
+2017-07-20 00:53:59,079 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3079' started, version 0.8.0
+2017-07-20 00:53:59,083 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,084 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,086 [MainThread  ] [INFO ]    Append thread:3097
+2017-07-20 00:53:59,092 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,093 [MainThread  ] [INFO ]    Append thread:3088
+2017-07-20 00:53:59,088 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,094 [MainThread  ] [INFO ]    Append thread:3081
+2017-07-20 00:53:59,095 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,088 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3082' started, version 0.8.0
+2017-07-20 00:53:59,089 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,089 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,096 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3087' started, version 0.8.0
+2017-07-20 00:53:59,099 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,096 [MainThread  ] [INFO ]    Append thread:3090
+2017-07-20 00:53:59,100 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,102 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3085' started, version 0.8.0
+2017-07-20 00:53:59,100 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,101 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,101 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,102 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,103 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,103 [MainThread  ] [INFO ]    Append thread:3083
+2017-07-20 00:53:59,109 [MainThread  ] [INFO ]    Append thread:3092
+2017-07-20 00:53:59,104 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,109 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3096' started, version 0.8.0
+2017-07-20 00:53:59,112 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,105 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,109 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,110 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,110 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,110 [MainThread  ] [INFO ]    Append thread:3085
+2017-07-20 00:53:59,111 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3094' started, version 0.8.0
+2017-07-20 00:53:59,111 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3091' started, version 0.8.0
+2017-07-20 00:53:59,111 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,116 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,111 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,111 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,118 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,112 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3088' started, version 0.8.0
+2017-07-20 00:53:59,112 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,112 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,112 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3089' started, version 0.8.0
+2017-07-20 00:53:59,120 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,113 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3086' started, version 0.8.0
+2017-07-20 00:53:59,115 [MainThread  ] [INFO ]    Append thread:3094
+2017-07-20 00:53:59,125 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,115 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,126 [MainThread  ] [INFO ]    Append thread:3096
+2017-07-20 00:53:59,114 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3084' started, version 0.8.0
+2017-07-20 00:53:59,117 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,127 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,128 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,128 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,117 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,129 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,119 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,120 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,122 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,121 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,132 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,120 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3095' started, version 0.8.0
+2017-07-20 00:53:59,123 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,124 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,133 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,125 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,135 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3090' started, version 0.8.0
+2017-07-20 00:53:59,126 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,128 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,128 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,128 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,123 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,138 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,138 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3093' started, version 0.8.0
+2017-07-20 00:53:59,139 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,129 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,131 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,131 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,140 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,132 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,142 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,142 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,132 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,132 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,133 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,134 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,135 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,135 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,136 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,137 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,138 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,146 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,146 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,139 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,141 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,142 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,144 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,148 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,144 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,149 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,150 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,142 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,151 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,145 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-20 00:53:59,146 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,146 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,147 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,153 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,153 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,147 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,154 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,148 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,151 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,152 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,153 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,157 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,155 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,159 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-20 00:53:59,159 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,160 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-20 00:53:59,161 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:53:59,163 [MainThread  ] [INFO ]  
+2017-07-20 00:53:59,163 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:55:30,872 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (149283e7-6d98-480b-ab88-76b69121f6eb)
+2017-07-20 00:55:30,881 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (e671650b-e8ba-4852-96fe-a2f865b3811b)
+2017-07-20 00:55:30,873 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (328214e7-b757-4ba5-bead-7c1cb835acbc)
+2017-07-20 00:55:30,888 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (7a520a65-68fa-48be-930f-f32c8619305f)
+2017-07-20 00:55:30,876 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (f9394d28-d62a-4b16-a2c8-44b01e3156e9)
+2017-07-20 00:55:30,880 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (4d2a1887-7e24-42e0-9206-6f3b74778648)
+2017-07-20 00:55:30,884 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (437b7c09-10d0-4a68-bbc5-9b3f11cb2e51)
+2017-07-20 00:55:30,885 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (b6205023-8642-449b-ad80-a26611de7745)
+2017-07-20 00:55:30,886 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (c60df9f3-709c-4bf2-914c-0f13807c6714)
+2017-07-20 00:55:30,887 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.count_words_at_url('http://nvie.com')[39;49;00m (f35f3f5c-8103-4305-82a4-503029b4bc78)
+2017-07-20 00:55:31,449 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-20 00:55:31,503 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-20 00:55:31,505 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-20 00:55:31,514 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-20 00:55:31,521 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-20 00:55:31,525 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-20 00:55:31,536 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-20 00:55:31,543 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-20 00:55:31,550 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-20 00:55:31,551 [MainThread  ] [INFO ]  Starting new HTTP connection (1): nvie.com
+2017-07-20 00:55:36,771 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (4d2a1887-7e24-42e0-9206-6f3b74778648)
+2017-07-20 00:55:36,772 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (149283e7-6d98-480b-ab88-76b69121f6eb)
+2017-07-20 00:55:36,771 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (7a520a65-68fa-48be-930f-f32c8619305f)
+2017-07-20 00:55:36,771 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (c60df9f3-709c-4bf2-914c-0f13807c6714)
+2017-07-20 00:55:36,775 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 00:55:36,776 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 00:55:36,771 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (e671650b-e8ba-4852-96fe-a2f865b3811b)
+2017-07-20 00:55:36,772 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (b6205023-8642-449b-ad80-a26611de7745)
+2017-07-20 00:55:36,772 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (f9394d28-d62a-4b16-a2c8-44b01e3156e9)
+2017-07-20 00:55:36,772 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (328214e7-b757-4ba5-bead-7c1cb835acbc)
+2017-07-20 00:55:36,782 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 00:55:36,773 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 00:55:36,787 [MainThread  ] [INFO ]  
+2017-07-20 00:55:36,788 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:55:36,775 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 00:55:36,776 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (437b7c09-10d0-4a68-bbc5-9b3f11cb2e51)
+2017-07-20 00:55:36,780 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 00:55:36,781 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 00:55:36,781 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 00:55:36,800 [MainThread  ] [INFO ]  
+2017-07-20 00:55:36,782 [MainThread  ] [INFO ]  
+2017-07-20 00:55:36,801 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:55:36,791 [MainThread  ] [INFO ]  
+2017-07-20 00:55:36,792 [MainThread  ] [INFO ]  
+2017-07-20 00:55:36,802 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:55:36,803 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:55:36,794 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 00:55:36,804 [MainThread  ] [INFO ]  
+2017-07-20 00:55:36,805 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:55:36,795 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (f35f3f5c-8103-4305-82a4-503029b4bc78)
+2017-07-20 00:55:36,800 [MainThread  ] [INFO ]  
+2017-07-20 00:55:36,799 [MainThread  ] [INFO ]  
+2017-07-20 00:55:36,801 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:55:36,807 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:55:36,807 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:55:36,808 [MainThread  ] [INFO ]  
+2017-07-20 00:55:36,806 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 00:55:36,809 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 00:55:36,811 [MainThread  ] [INFO ]  
+2017-07-20 00:55:36,812 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:02:57,590 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f583b6878d0>, <discountCarRentalAPI.POST_URL object at 0x7f583b687a20>, <discountCarRentalAPI.POST_URL object at 0x7f583b3bb160>, <discountCarRentalAPI.POST_URL object at 0x7f583a793ac8>, <discountCarRentalAPI.POST_URL object at 0x7f583a793cf8>, <discountCarRentalAPI.POST_URL object at 0x7f583a793e10>, <discountCarRentalAPI.POST_URL object at 0x7f583a7939b0>, <discountCarRentalAPI.POST_URL object at 0x7f583a793f60>, <discountCarRentalAPI.POST_URL object at 0x7f583a793fd0>, <discountCarRentalAPI.POST_URL object at 0x7f583a798208>])[39;49;00m (49103432-6029-4581-bd27-84ea6505aee3)
+2017-07-20 01:02:57,594 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f583a798320>, <discountCarRentalAPI.POST_URL object at 0x7f583a798390>, <discountCarRentalAPI.POST_URL object at 0x7f583a798470>, <discountCarRentalAPI.POST_URL object at 0x7f583a798588>, <discountCarRentalAPI.POST_URL object at 0x7f583a798630>, <discountCarRentalAPI.POST_URL object at 0x7f583a7986a0>, <discountCarRentalAPI.POST_URL object at 0x7f583a798748>, <discountCarRentalAPI.POST_URL object at 0x7f583a798780>, <discountCarRentalAPI.POST_URL object at 0x7f583a798898>])[39;49;00m (63ad2d7d-8cd6-41cd-ac35-23152eb29807)
+2017-07-20 01:03:00,230 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (63ad2d7d-8cd6-41cd-ac35-23152eb29807)
+2017-07-20 01:03:00,232 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:03:00,240 [MainThread  ] [INFO ]  
+2017-07-20 01:03:00,241 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:03:03,872 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (49103432-6029-4581-bd27-84ea6505aee3)
+2017-07-20 01:03:03,873 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:03:03,884 [MainThread  ] [INFO ]  
+2017-07-20 01:03:03,886 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:03:49,882 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f89dfd199b0>, <discountCarRentalAPI.POST_URL object at 0x7f89dfd19940>, <discountCarRentalAPI.POST_URL object at 0x7f89dfa4f128>, <discountCarRentalAPI.POST_URL object at 0x7f89dee28978>, <discountCarRentalAPI.POST_URL object at 0x7f89dee28b70>, <discountCarRentalAPI.POST_URL object at 0x7f89dee28d30>, <discountCarRentalAPI.POST_URL object at 0x7f89dee28908>, <discountCarRentalAPI.POST_URL object at 0x7f89dee28e80>, <discountCarRentalAPI.POST_URL object at 0x7f89dee28f98>, <discountCarRentalAPI.POST_URL object at 0x7f89dee2d128>])[39;49;00m (4e6a7eaf-6f87-4b3b-8f81-92bc59c8b05b)
+2017-07-20 01:03:49,887 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f89dee2d278>, <discountCarRentalAPI.POST_URL object at 0x7f89dee2d320>, <discountCarRentalAPI.POST_URL object at 0x7f89dee2d390>, <discountCarRentalAPI.POST_URL object at 0x7f89dee2d438>, <discountCarRentalAPI.POST_URL object at 0x7f89dee2d518>, <discountCarRentalAPI.POST_URL object at 0x7f89dee2d5c0>, <discountCarRentalAPI.POST_URL object at 0x7f89dee2d668>, <discountCarRentalAPI.POST_URL object at 0x7f89dee2d6d8>, <discountCarRentalAPI.POST_URL object at 0x7f89dee2d780>])[39;49;00m (ed361646-99d3-47d1-9c66-8cc756849f3a)
+2017-07-20 01:03:52,223 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (4e6a7eaf-6f87-4b3b-8f81-92bc59c8b05b)
+2017-07-20 01:03:52,224 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:03:52,229 [MainThread  ] [INFO ]  
+2017-07-20 01:03:52,229 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:03:53,353 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (ed361646-99d3-47d1-9c66-8cc756849f3a)
+2017-07-20 01:03:53,355 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:03:53,364 [MainThread  ] [INFO ]  
+2017-07-20 01:03:53,366 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:04:16,820 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6bb39916d8>, <discountCarRentalAPI.POST_URL object at 0x7f6bb39919b0>, <discountCarRentalAPI.POST_URL object at 0x7f6bb36c7128>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa09e8>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa0be0>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa0cc0>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa0dd8>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa0e80>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa0ef0>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa50b8>])[39;49;00m (fd94f68c-50c9-448a-8b00-fa6eccbc6303)
+2017-07-20 01:04:16,822 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6bb2aa5208>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa5358>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa53c8>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa5438>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa54e0>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa55c0>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa5668>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa56a0>, <discountCarRentalAPI.POST_URL object at 0x7f6bb2aa57b8>])[39;49;00m (22823b01-bef6-4832-8abe-108428d62531)
+2017-07-20 01:04:18,997 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (fd94f68c-50c9-448a-8b00-fa6eccbc6303)
+2017-07-20 01:04:18,998 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:04:19,001 [MainThread  ] [INFO ]  
+2017-07-20 01:04:19,002 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:04:20,309 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (22823b01-bef6-4832-8abe-108428d62531)
+2017-07-20 01:04:20,310 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:04:20,319 [MainThread  ] [INFO ]  
+2017-07-20 01:04:20,321 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:11:22,687 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fceac9b9fd0>, <discountCarRentalAPI.POST_URL object at 0x7fceac22a208>, <discountCarRentalAPI.POST_URL object at 0x7fceaca10198>, <discountCarRentalAPI.POST_URL object at 0x7fceabde9a20>, <discountCarRentalAPI.POST_URL object at 0x7fceabde9cc0>])[39;49;00m (cec0a553-24d6-400d-a1b8-8f8a73ef6644)
+2017-07-20 01:11:22,688 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fceabdee8d0>, <discountCarRentalAPI.POST_URL object at 0x7fceabdee978>, <discountCarRentalAPI.POST_URL object at 0x7fceabdeea20>, <discountCarRentalAPI.POST_URL object at 0x7fceabdeea90>, <discountCarRentalAPI.POST_URL object at 0x7fceabdeeba8>])[39;49;00m (f68b2899-9409-4396-8393-408eef35baed)
+2017-07-20 01:11:22,693 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fceabde9c18>, <discountCarRentalAPI.POST_URL object at 0x7fceabde9dd8>, <discountCarRentalAPI.POST_URL object at 0x7fceabde9f28>, <discountCarRentalAPI.POST_URL object at 0x7fceabde9f98>, <discountCarRentalAPI.POST_URL object at 0x7fceabdee198>])[39;49;00m (c52ddd0f-d930-47e1-a365-8cdfce87d579)
+2017-07-20 01:11:22,696 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fceabdee208>, <discountCarRentalAPI.POST_URL object at 0x7fceabdee320>, <discountCarRentalAPI.POST_URL object at 0x7fceabdee390>, <discountCarRentalAPI.POST_URL object at 0x7fceabdee438>, <discountCarRentalAPI.POST_URL object at 0x7fceabdee4a8>])[39;49;00m (a4183db7-0495-4cbd-95a1-0ce3094ce6a3)
+2017-07-20 01:11:22,700 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fceabdee550>, <discountCarRentalAPI.POST_URL object at 0x7fceabdee5f8>, <discountCarRentalAPI.POST_URL object at 0x7fceabdee710>, <discountCarRentalAPI.POST_URL object at 0x7fceabdee780>, <discountCarRentalAPI.POST_URL object at 0x7fceabdee898>])[39;49;00m (fa003982-6d03-471d-b857-ce6a82f620ab)
+2017-07-20 01:11:25,722 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (c52ddd0f-d930-47e1-a365-8cdfce87d579)
+2017-07-20 01:11:25,723 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:11:25,731 [MainThread  ] [INFO ]  
+2017-07-20 01:11:25,732 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:11:25,745 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (fa003982-6d03-471d-b857-ce6a82f620ab)
+2017-07-20 01:11:25,746 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:11:25,747 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a4183db7-0495-4cbd-95a1-0ce3094ce6a3)
+2017-07-20 01:11:25,748 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:11:25,751 [MainThread  ] [INFO ]  
+2017-07-20 01:11:25,752 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:11:25,755 [MainThread  ] [INFO ]  
+2017-07-20 01:11:25,756 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:11:25,816 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (f68b2899-9409-4396-8393-408eef35baed)
+2017-07-20 01:11:25,816 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:11:25,819 [MainThread  ] [INFO ]  
+2017-07-20 01:11:25,819 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:11:26,311 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (cec0a553-24d6-400d-a1b8-8f8a73ef6644)
+2017-07-20 01:11:26,312 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:11:26,322 [MainThread  ] [INFO ]  
+2017-07-20 01:11:26,323 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:13:17,302 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f06710b4748>, <discountCarRentalAPI.POST_URL object at 0x7f06710b4a58>, <discountCarRentalAPI.POST_URL object at 0x7f0670dea160>, <discountCarRentalAPI.POST_URL object at 0x7f06701c2a58>, <discountCarRentalAPI.POST_URL object at 0x7f06701c2c50>])[39;49;00m (09037b47-774b-4989-a022-6e8e46c1b0dc)
+2017-07-20 01:13:17,305 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f06701c2c18>, <discountCarRentalAPI.POST_URL object at 0x7f06701c2978>, <discountCarRentalAPI.POST_URL object at 0x7f06701c24e0>, <discountCarRentalAPI.POST_URL object at 0x7f06701c2f60>, <discountCarRentalAPI.POST_URL object at 0x7f06701c81d0>])[39;49;00m (bd3221d8-facb-4a3b-86f2-eaa19978a8a8)
+2017-07-20 01:13:17,305 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f06701c8208>, <discountCarRentalAPI.POST_URL object at 0x7f06701c82e8>, <discountCarRentalAPI.POST_URL object at 0x7f06701c8320>, <discountCarRentalAPI.POST_URL object at 0x7f06701c8400>, <discountCarRentalAPI.POST_URL object at 0x7f06701c8470>])[39;49;00m (9e2e5864-9410-40fb-a574-8080a0a7e6a6)
+2017-07-20 01:13:17,310 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f06701c8588>, <discountCarRentalAPI.POST_URL object at 0x7f06701c8630>, <discountCarRentalAPI.POST_URL object at 0x7f06701c86a0>, <discountCarRentalAPI.POST_URL object at 0x7f06701c8780>, <discountCarRentalAPI.POST_URL object at 0x7f06701c87b8>])[39;49;00m (5eb26f34-1bd4-4488-9baf-611940a0b5bc)
+2017-07-20 01:13:17,314 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f06701c8898>, <discountCarRentalAPI.POST_URL object at 0x7f06701c89b0>, <discountCarRentalAPI.POST_URL object at 0x7f06701c89e8>, <discountCarRentalAPI.POST_URL object at 0x7f06701c8ac8>, <discountCarRentalAPI.POST_URL object at 0x7f06701c8b70>])[39;49;00m (1d9eff67-7c54-402a-80db-a78e1431d661)
+2017-07-20 01:13:20,280 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (9e2e5864-9410-40fb-a574-8080a0a7e6a6)
+2017-07-20 01:13:20,280 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:13:20,285 [MainThread  ] [INFO ]  
+2017-07-20 01:13:20,285 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:13:20,290 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (09037b47-774b-4989-a022-6e8e46c1b0dc)
+2017-07-20 01:13:20,291 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:13:20,297 [MainThread  ] [INFO ]  
+2017-07-20 01:13:20,298 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:13:20,299 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (bd3221d8-facb-4a3b-86f2-eaa19978a8a8)
+2017-07-20 01:13:20,299 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:13:20,306 [MainThread  ] [INFO ]  
+2017-07-20 01:13:20,306 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:13:20,406 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (1d9eff67-7c54-402a-80db-a78e1431d661)
+2017-07-20 01:13:20,406 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:13:20,409 [MainThread  ] [INFO ]  
+2017-07-20 01:13:20,410 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:13:23,919 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (5eb26f34-1bd4-4488-9baf-611940a0b5bc)
+2017-07-20 01:13:23,921 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:13:23,929 [MainThread  ] [INFO ]  
+2017-07-20 01:13:23,931 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:13:42,743 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f185b1e09b0>, <discountCarRentalAPI.POST_URL object at 0x7f185b1e09e8>, <discountCarRentalAPI.POST_URL object at 0x7f185af16160>, <discountCarRentalAPI.POST_URL object at 0x7f185a2eea90>, <discountCarRentalAPI.POST_URL object at 0x7f185a2eec50>])[39;49;00m (e267833c-e98b-40d2-b2ac-c53fd4b5c5a8)
+2017-07-20 01:13:42,746 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f185a2eed68>, <discountCarRentalAPI.POST_URL object at 0x7f185a2ee940>, <discountCarRentalAPI.POST_URL object at 0x7f185a2ee4a8>, <discountCarRentalAPI.POST_URL object at 0x7f185a2eef28>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f40f0>])[39;49;00m (d50347cc-b991-48b3-a211-07ed2aba75f4)
+2017-07-20 01:13:42,747 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f185a2f4208>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f42b0>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f42e8>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f4438>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f4470>])[39;49;00m (bca28d37-edcf-4cb5-b8a5-e1b9c8005946)
+2017-07-20 01:13:42,751 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f185a2f4550>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f45f8>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f46a0>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f4748>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f47b8>])[39;49;00m (a6246b88-a7f2-4263-a218-54957d852d85)
+2017-07-20 01:13:42,755 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f185a2f4860>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f4908>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f4978>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f4a58>, <discountCarRentalAPI.POST_URL object at 0x7f185a2f4b00>])[39;49;00m (f0faabbf-77cd-4c1d-b805-2992618c9fe8)
+2017-07-20 01:13:44,644 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (bca28d37-edcf-4cb5-b8a5-e1b9c8005946)
+2017-07-20 01:13:44,645 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:13:44,652 [MainThread  ] [INFO ]  
+2017-07-20 01:13:44,653 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:13:45,276 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (f0faabbf-77cd-4c1d-b805-2992618c9fe8)
+2017-07-20 01:13:45,278 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:13:45,289 [MainThread  ] [INFO ]  
+2017-07-20 01:13:45,291 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:13:45,636 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (d50347cc-b991-48b3-a211-07ed2aba75f4)
+2017-07-20 01:13:45,637 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:13:45,640 [MainThread  ] [INFO ]  
+2017-07-20 01:13:45,641 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:13:45,921 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (e267833c-e98b-40d2-b2ac-c53fd4b5c5a8)
+2017-07-20 01:13:45,922 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:13:45,926 [MainThread  ] [INFO ]  
+2017-07-20 01:13:45,928 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:13:46,594 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a6246b88-a7f2-4263-a218-54957d852d85)
+2017-07-20 01:13:46,596 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:13:46,606 [MainThread  ] [INFO ]  
+2017-07-20 01:13:46,607 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:14:01,070 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fad6b195978>, <discountCarRentalAPI.POST_URL object at 0x7fad6b1959e8>, <discountCarRentalAPI.POST_URL object at 0x7fad6aecb160>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a3a90>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a3ba8>])[39;49;00m (71866436-b6fb-4102-9d40-241867481e1d)
+2017-07-20 01:14:01,074 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fad6a2a3cf8>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a3e10>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a3908>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a3f28>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a9198>])[39;49;00m (b07380c5-fc65-49a9-8f59-631ec571406f)
+2017-07-20 01:14:01,076 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fad6a2a91d0>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a9240>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a92e8>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a9400>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a94a8>])[39;49;00m (6ca2d31a-1a77-4dd8-81a8-a489878706ac)
+2017-07-20 01:14:01,076 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fad6a2a9550>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a95c0>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a96a0>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a96d8>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a9828>])[39;49;00m (136806d2-a834-47e1-9fa9-1b6ad84b331c)
+2017-07-20 01:14:01,081 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fad6a2a97b8>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a9978>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a99e8>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a9a90>, <discountCarRentalAPI.POST_URL object at 0x7fad6a2a9ac8>])[39;49;00m (d030b073-bfea-494c-b8f3-e12b40be9dec)
+2017-07-20 01:14:03,808 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (6ca2d31a-1a77-4dd8-81a8-a489878706ac)
+2017-07-20 01:14:03,809 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:14:03,812 [MainThread  ] [INFO ]  
+2017-07-20 01:14:03,812 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:14:03,837 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (136806d2-a834-47e1-9fa9-1b6ad84b331c)
+2017-07-20 01:14:03,838 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:14:03,841 [MainThread  ] [INFO ]  
+2017-07-20 01:14:03,842 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:14:03,902 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (b07380c5-fc65-49a9-8f59-631ec571406f)
+2017-07-20 01:14:03,903 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:14:03,905 [MainThread  ] [INFO ]  
+2017-07-20 01:14:03,906 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:14:03,930 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (d030b073-bfea-494c-b8f3-e12b40be9dec)
+2017-07-20 01:14:03,931 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:14:03,936 [MainThread  ] [INFO ]  
+2017-07-20 01:14:03,937 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:14:04,699 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (71866436-b6fb-4102-9d40-241867481e1d)
+2017-07-20 01:14:04,701 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:14:04,712 [MainThread  ] [INFO ]  
+2017-07-20 01:14:04,715 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:14:47,047 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f757052d748>, <discountCarRentalAPI.POST_URL object at 0x7f757052d9e8>, <discountCarRentalAPI.POST_URL object at 0x7f7570263160>, <discountCarRentalAPI.POST_URL object at 0x7f756f63b9b0>, <discountCarRentalAPI.POST_URL object at 0x7f756f63bbe0>])[39;49;00m (2457c845-5e69-41ee-96af-97bcdd0d2f3d)
+2017-07-20 01:14:47,051 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f756f63bcf8>, <discountCarRentalAPI.POST_URL object at 0x7f756f63b908>, <discountCarRentalAPI.POST_URL object at 0x7f756f63b278>, <discountCarRentalAPI.POST_URL object at 0x7f756f63bfd0>, <discountCarRentalAPI.POST_URL object at 0x7f756f6410f0>])[39;49;00m (65c076fd-a5f5-414f-83fe-4153b3f8d4cf)
+2017-07-20 01:14:47,052 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f756f6411d0>, <discountCarRentalAPI.POST_URL object at 0x7f756f6412b0>, <discountCarRentalAPI.POST_URL object at 0x7f756f641358>, <discountCarRentalAPI.POST_URL object at 0x7f756f641400>, <discountCarRentalAPI.POST_URL object at 0x7f756f6414a8>])[39;49;00m (ae69308c-8990-4898-9e63-8a94ce6fa335)
+2017-07-20 01:14:47,056 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f756f6414e0>, <discountCarRentalAPI.POST_URL object at 0x7f756f641588>, <discountCarRentalAPI.POST_URL object at 0x7f756f641630>, <discountCarRentalAPI.POST_URL object at 0x7f756f641748>, <discountCarRentalAPI.POST_URL object at 0x7f756f641780>])[39;49;00m (aa519543-ac9e-442d-b2be-15c778d79a1d)
+2017-07-20 01:14:47,058 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f756f641828>, <discountCarRentalAPI.POST_URL object at 0x7f756f641940>, <discountCarRentalAPI.POST_URL object at 0x7f756f641978>, <discountCarRentalAPI.POST_URL object at 0x7f756f641a90>, <discountCarRentalAPI.POST_URL object at 0x7f756f641b38>])[39;49;00m (87c2802b-f0d9-4e2b-a903-2983d962e966)
+2017-07-20 01:14:49,962 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (87c2802b-f0d9-4e2b-a903-2983d962e966)
+2017-07-20 01:14:49,964 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:14:49,978 [MainThread  ] [INFO ]  
+2017-07-20 01:14:49,979 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:14:50,105 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (aa519543-ac9e-442d-b2be-15c778d79a1d)
+2017-07-20 01:14:50,106 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:14:50,124 [MainThread  ] [INFO ]  
+2017-07-20 01:14:50,125 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:14:50,167 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (65c076fd-a5f5-414f-83fe-4153b3f8d4cf)
+2017-07-20 01:14:50,168 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:14:50,173 [MainThread  ] [INFO ]  
+2017-07-20 01:14:50,174 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:14:50,240 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (2457c845-5e69-41ee-96af-97bcdd0d2f3d)
+2017-07-20 01:14:50,241 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:14:50,247 [MainThread  ] [INFO ]  
+2017-07-20 01:14:50,248 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:14:50,724 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (ae69308c-8990-4898-9e63-8a94ce6fa335)
+2017-07-20 01:14:50,727 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:14:50,736 [MainThread  ] [INFO ]  
+2017-07-20 01:14:50,737 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:15:12,871 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f1bfafe79b0>, <discountCarRentalAPI.POST_URL object at 0x7f1bfafe79e8>, <discountCarRentalAPI.POST_URL object at 0x7f1bfad1db70>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0f5ac8>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0f5c50>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0f5d30>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0f52b0>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0f5f60>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0f5ef0>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb160>])[39;49;00m (c7ac51c5-e18c-4b79-8393-05be72ec874c)
+2017-07-20 01:15:12,872 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb240>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb278>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb320>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb3c8>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb4e0>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb518>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb5c0>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb6d8>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb710>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb7b8>])[39;49;00m (f8890c1e-2cdd-44cd-be45-e109904e6690)
+2017-07-20 01:15:12,876 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb860>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fb908>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fba20>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fba90>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fbba8>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fbc18>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fbc50>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fbd68>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fbdd8>, <discountCarRentalAPI.POST_URL object at 0x7f1bfa0fbeb8>])[39;49;00m (72fe2f7b-0907-4c5b-9f29-972201f98a1a)
+2017-07-20 01:15:16,046 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (c7ac51c5-e18c-4b79-8393-05be72ec874c)
+2017-07-20 01:15:16,048 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:15:16,059 [MainThread  ] [INFO ]  
+2017-07-20 01:15:16,061 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:15:16,118 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (f8890c1e-2cdd-44cd-be45-e109904e6690)
+2017-07-20 01:15:16,120 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:15:16,125 [MainThread  ] [INFO ]  
+2017-07-20 01:15:16,126 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:15:16,400 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (72fe2f7b-0907-4c5b-9f29-972201f98a1a)
+2017-07-20 01:15:16,402 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:15:16,410 [MainThread  ] [INFO ]  
+2017-07-20 01:15:16,412 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:15:52,061 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f085baba978>, <discountCarRentalAPI.POST_URL object at 0x7f085baba9e8>, <discountCarRentalAPI.POST_URL object at 0x7f085b7f0160>, <discountCarRentalAPI.POST_URL object at 0x7f085abc8a20>, <discountCarRentalAPI.POST_URL object at 0x7f085abc8c88>, <discountCarRentalAPI.POST_URL object at 0x7f085abc8dd8>, <discountCarRentalAPI.POST_URL object at 0x7f085abc89b0>, <discountCarRentalAPI.POST_URL object at 0x7f085abc82e8>, <discountCarRentalAPI.POST_URL object at 0x7f085abc8f98>])[39;49;00m (2870845b-b535-4aba-8fe8-1ddfc3182e91)
+2017-07-20 01:15:52,063 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f085abce198>, <discountCarRentalAPI.POST_URL object at 0x7f085abce278>, <discountCarRentalAPI.POST_URL object at 0x7f085abce2e8>, <discountCarRentalAPI.POST_URL object at 0x7f085abce3c8>, <discountCarRentalAPI.POST_URL object at 0x7f085abce470>, <discountCarRentalAPI.POST_URL object at 0x7f085abce518>, <discountCarRentalAPI.POST_URL object at 0x7f085abce550>, <discountCarRentalAPI.POST_URL object at 0x7f085abce668>, <discountCarRentalAPI.POST_URL object at 0x7f085abce6d8>])[39;49;00m (a6030a03-fec9-481a-b6b0-0d3e31c5a7fd)
+2017-07-20 01:15:52,067 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f085abcedd8>, <discountCarRentalAPI.POST_URL object at 0x7f085abced68>, <discountCarRentalAPI.POST_URL object at 0x7f085abceeb8>])[39;49;00m (fcfd8c45-727f-4ead-ba9d-91fc6998ca8f)
+2017-07-20 01:15:52,068 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f085abce780>, <discountCarRentalAPI.POST_URL object at 0x7f085abce860>, <discountCarRentalAPI.POST_URL object at 0x7f085abce908>, <discountCarRentalAPI.POST_URL object at 0x7f085abce978>, <discountCarRentalAPI.POST_URL object at 0x7f085abcea58>, <discountCarRentalAPI.POST_URL object at 0x7f085abceb00>, <discountCarRentalAPI.POST_URL object at 0x7f085abceb38>, <discountCarRentalAPI.POST_URL object at 0x7f085abcec50>, <discountCarRentalAPI.POST_URL object at 0x7f085abcecc0>])[39;49;00m (baf1f582-794b-43e2-bba5-69a4b40e5126)
+2017-07-20 01:15:54,927 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (baf1f582-794b-43e2-bba5-69a4b40e5126)
+2017-07-20 01:15:54,927 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:15:54,940 [MainThread  ] [INFO ]  
+2017-07-20 01:15:54,940 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:15:55,150 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (2870845b-b535-4aba-8fe8-1ddfc3182e91)
+2017-07-20 01:15:55,151 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:15:55,159 [MainThread  ] [INFO ]  
+2017-07-20 01:15:55,160 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:15:55,171 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (fcfd8c45-727f-4ead-ba9d-91fc6998ca8f)
+2017-07-20 01:15:55,172 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:15:55,181 [MainThread  ] [INFO ]  
+2017-07-20 01:15:55,182 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:15:56,123 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a6030a03-fec9-481a-b6b0-0d3e31c5a7fd)
+2017-07-20 01:15:56,125 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:15:56,136 [MainThread  ] [INFO ]  
+2017-07-20 01:15:56,137 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:16:21,985 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f8da0438748>, <discountCarRentalAPI.POST_URL object at 0x7f8da04389e8>, <discountCarRentalAPI.POST_URL object at 0x7f8da016e160>, <discountCarRentalAPI.POST_URL object at 0x7f8d9f5469e8>])[39;49;00m (faeb25dd-a253-47c7-ad04-57491d914649)
+2017-07-20 01:16:21,989 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f8d9f54c358>, <discountCarRentalAPI.POST_URL object at 0x7f8d9f54c438>, <discountCarRentalAPI.POST_URL object at 0x7f8d9f54c4e0>, <discountCarRentalAPI.POST_URL object at 0x7f8d9f54c518>])[39;49;00m (2c17e11c-7574-46ab-8cf6-913bcfc65e5f)
+2017-07-20 01:16:21,989 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f8d9f546f60>, <discountCarRentalAPI.POST_URL object at 0x7f8d9f54c160>, <discountCarRentalAPI.POST_URL object at 0x7f8d9f54c240>, <discountCarRentalAPI.POST_URL object at 0x7f8d9f54c278>])[39;49;00m (7d5dfabb-79cb-49a1-bc3e-cb6f6e3f7366)
+2017-07-20 01:16:21,990 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f8d9f546c50>, <discountCarRentalAPI.POST_URL object at 0x7f8d9f546da0>, <discountCarRentalAPI.POST_URL object at 0x7f8d9f5462b0>, <discountCarRentalAPI.POST_URL object at 0x7f8d9f5464e0>])[39;49;00m (75ed07f3-c0e7-4d31-a144-a4538e838b76)
+2017-07-20 01:16:23,879 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (7d5dfabb-79cb-49a1-bc3e-cb6f6e3f7366)
+2017-07-20 01:16:23,880 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:16:23,884 [MainThread  ] [INFO ]  
+2017-07-20 01:16:23,885 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:16:24,113 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (2c17e11c-7574-46ab-8cf6-913bcfc65e5f)
+2017-07-20 01:16:24,113 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:16:24,117 [MainThread  ] [INFO ]  
+2017-07-20 01:16:24,118 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:16:24,185 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (faeb25dd-a253-47c7-ad04-57491d914649)
+2017-07-20 01:16:24,187 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:16:24,193 [MainThread  ] [INFO ]  
+2017-07-20 01:16:24,194 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:16:24,220 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (75ed07f3-c0e7-4d31-a144-a4538e838b76)
+2017-07-20 01:16:24,221 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:16:24,226 [MainThread  ] [INFO ]  
+2017-07-20 01:16:24,227 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:16:40,172 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fc341d21748>, <discountCarRentalAPI.POST_URL object at 0x7fc341d219e8>, <discountCarRentalAPI.POST_URL object at 0x7fc341a57160>, <discountCarRentalAPI.POST_URL object at 0x7fc340e2fac8>, <discountCarRentalAPI.POST_URL object at 0x7fc340e2fcc0>, <discountCarRentalAPI.POST_URL object at 0x7fc340e2fe10>, <discountCarRentalAPI.POST_URL object at 0x7fc340e2f9b0>, <discountCarRentalAPI.POST_URL object at 0x7fc340e2ff60>])[39;49;00m (b260ffcc-c3a7-4095-9e5d-f32114c66959)
+2017-07-20 01:16:40,173 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fc340e2ffd0>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35198>, <discountCarRentalAPI.POST_URL object at 0x7fc340e352e8>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35278>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35438>, <discountCarRentalAPI.POST_URL object at 0x7fc340e354a8>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35588>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35518>])[39;49;00m (6a6ef8bf-718d-4af8-92bd-7cebb4f5ab7e)
+2017-07-20 01:16:40,176 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fc340e356d8>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35780>, <discountCarRentalAPI.POST_URL object at 0x7fc340e357f0>, <discountCarRentalAPI.POST_URL object at 0x7fc340e358d0>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35940>, <discountCarRentalAPI.POST_URL object at 0x7fc340e359e8>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35a90>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35b38>])[39;49;00m (540ac9e6-886f-46a6-8366-62b3c836d749)
+2017-07-20 01:16:40,177 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7fc340e35ba8>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35cc0>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35c88>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35e10>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35eb8>, <discountCarRentalAPI.POST_URL object at 0x7fc340e35f28>])[39;49;00m (35f301e3-729b-48de-bb9c-aff18f8ad29d)
+2017-07-20 01:16:42,556 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (35f301e3-729b-48de-bb9c-aff18f8ad29d)
+2017-07-20 01:16:42,557 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:16:42,560 [MainThread  ] [INFO ]  
+2017-07-20 01:16:42,561 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:16:42,810 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (6a6ef8bf-718d-4af8-92bd-7cebb4f5ab7e)
+2017-07-20 01:16:42,811 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:16:42,814 [MainThread  ] [INFO ]  
+2017-07-20 01:16:42,815 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:16:43,518 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (540ac9e6-886f-46a6-8366-62b3c836d749)
+2017-07-20 01:16:43,519 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:16:43,524 [MainThread  ] [INFO ]  
+2017-07-20 01:16:43,525 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:16:43,800 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (b260ffcc-c3a7-4095-9e5d-f32114c66959)
+2017-07-20 01:16:43,803 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:16:43,814 [MainThread  ] [INFO ]  
+2017-07-20 01:16:43,817 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:18:41,710 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f52088429e8>, <discountCarRentalAPI.POST_URL object at 0x7f5208842978>, <discountCarRentalAPI.POST_URL object at 0x7f5208578160>])[39;49;00m (389dff98-3eaf-4a19-851c-60170ea2d61e)
+2017-07-20 01:18:41,713 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5207950ac8>, <discountCarRentalAPI.POST_URL object at 0x7f5207950c88>, <discountCarRentalAPI.POST_URL object at 0x7f5207950d30>])[39;49;00m (afe2a078-0810-4b35-b75d-5eca9df0f35c)
+2017-07-20 01:18:41,717 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5207950978>, <discountCarRentalAPI.POST_URL object at 0x7f5207950940>, <discountCarRentalAPI.POST_URL object at 0x7f5207950f60>])[39;49;00m (f516465c-9149-4aec-a174-6fdc8b33249f)
+2017-07-20 01:18:41,718 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5207955160>, <discountCarRentalAPI.POST_URL object at 0x7f5207955208>, <discountCarRentalAPI.POST_URL object at 0x7f5207955320>])[39;49;00m (0343982b-04dc-4daa-a2fa-3fb1a7617cae)
+2017-07-20 01:18:41,722 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5207955358>, <discountCarRentalAPI.POST_URL object at 0x7f52079553c8>, <discountCarRentalAPI.POST_URL object at 0x7f52079554a8>])[39;49;00m (ea35a996-7345-471d-af42-600d68f66d6e)
+2017-07-20 01:18:41,725 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5207955588>, <discountCarRentalAPI.POST_URL object at 0x7f52079555f8>, <discountCarRentalAPI.POST_URL object at 0x7f5207955668>])[39;49;00m (3e42aa30-f935-4831-a454-18fd5a9d0dfb)
+2017-07-20 01:18:41,727 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5207955780>, <discountCarRentalAPI.POST_URL object at 0x7f52079557b8>, <discountCarRentalAPI.POST_URL object at 0x7f5207955860>])[39;49;00m (c3daab77-b062-4af8-8736-7f368215a568)
+2017-07-20 01:18:41,732 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5207955940>, <discountCarRentalAPI.POST_URL object at 0x7f5207955a20>, <discountCarRentalAPI.POST_URL object at 0x7f5207955ac8>])[39;49;00m (a0ffea26-8b5f-4454-a1cc-1b8fd11e80c7)
+2017-07-20 01:18:41,733 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5207955d68>, <discountCarRentalAPI.POST_URL object at 0x7f5207955da0>, <discountCarRentalAPI.POST_URL object at 0x7f5207955eb8>])[39;49;00m (40562fc2-531a-4587-a629-b2bfb4bd9aae)
+2017-07-20 01:18:41,732 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5207955b38>, <discountCarRentalAPI.POST_URL object at 0x7f5207955ba8>, <discountCarRentalAPI.POST_URL object at 0x7f5207955c50>])[39;49;00m (b74fafb8-9ce9-4cf4-a066-9d4d839088ee)
+2017-07-20 01:18:44,708 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (389dff98-3eaf-4a19-851c-60170ea2d61e)
+2017-07-20 01:18:44,710 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:18:44,721 [MainThread  ] [INFO ]  
+2017-07-20 01:18:44,724 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:18:44,763 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a0ffea26-8b5f-4454-a1cc-1b8fd11e80c7)
+2017-07-20 01:18:44,764 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:18:44,772 [MainThread  ] [INFO ]  
+2017-07-20 01:18:44,773 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:18:44,809 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (ea35a996-7345-471d-af42-600d68f66d6e)
+2017-07-20 01:18:44,810 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:18:44,815 [MainThread  ] [INFO ]  
+2017-07-20 01:18:44,816 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:18:44,865 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (afe2a078-0810-4b35-b75d-5eca9df0f35c)
+2017-07-20 01:18:44,865 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:18:44,868 [MainThread  ] [INFO ]  
+2017-07-20 01:18:44,869 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:18:44,951 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (0343982b-04dc-4daa-a2fa-3fb1a7617cae)
+2017-07-20 01:18:44,952 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:18:44,957 [MainThread  ] [INFO ]  
+2017-07-20 01:18:44,958 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:18:44,978 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (f516465c-9149-4aec-a174-6fdc8b33249f)
+2017-07-20 01:18:44,979 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:18:44,984 [MainThread  ] [INFO ]  
+2017-07-20 01:18:44,985 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:18:45,017 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (b74fafb8-9ce9-4cf4-a066-9d4d839088ee)
+2017-07-20 01:18:45,019 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:18:45,027 [MainThread  ] [INFO ]  
+2017-07-20 01:18:45,041 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:18:45,095 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (40562fc2-531a-4587-a629-b2bfb4bd9aae)
+2017-07-20 01:18:45,096 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:18:45,099 [MainThread  ] [INFO ]  
+2017-07-20 01:18:45,100 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:18:45,244 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (3e42aa30-f935-4831-a454-18fd5a9d0dfb)
+2017-07-20 01:18:45,244 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:18:45,248 [MainThread  ] [INFO ]  
+2017-07-20 01:18:45,248 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:18:45,746 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (c3daab77-b062-4af8-8736-7f368215a568)
+2017-07-20 01:18:45,747 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:18:45,753 [MainThread  ] [INFO ]  
+2017-07-20 01:18:45,753 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:02,073 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f2aebbb0978>, <discountCarRentalAPI.POST_URL object at 0x7f2aebbb09e8>, <discountCarRentalAPI.POST_URL object at 0x7f2aeb8e6160>])[39;49;00m (e5e73cb8-ab4f-4c1d-8469-483d4bba40a1)
+2017-07-20 01:19:02,075 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f2aeacbeb38>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacbecf8>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacbeda0>])[39;49;00m (ac506baa-66ab-4c9d-bc23-8be7e516f4cc)
+2017-07-20 01:19:02,076 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f2aeacbe9e8>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacbef60>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacbefd0>])[39;49;00m (5b1b8622-9bd6-4cbf-9eca-720d48515997)
+2017-07-20 01:19:02,079 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f2aeacc4208>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4240>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4358>])[39;49;00m (8779083b-dd6c-4d24-aec1-d0868209d705)
+2017-07-20 01:19:02,081 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f2aeacc4390>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4438>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4588>])[39;49;00m (80f2a7fe-8d74-472d-9fec-37e0faec99b6)
+2017-07-20 01:19:02,083 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f2aeacc4630>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4668>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc46d8>])[39;49;00m (065cdbbd-e342-4b78-899e-39e813ecf6f1)
+2017-07-20 01:19:02,086 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f2aeacc4978>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4a58>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4b00>])[39;49;00m (0c9502d4-f441-440a-8891-a81ae149ea1c)
+2017-07-20 01:19:02,087 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f2aeacc47f0>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4898>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4940>])[39;49;00m (385b019a-d050-4f8f-ac76-32baaec9c75d)
+2017-07-20 01:19:02,090 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f2aeacc4ba8>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4c88>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4cf8>])[39;49;00m (120d79a0-5053-4b77-aac4-7870fcad2949)
+2017-07-20 01:19:02,094 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f2aeacc4dd8>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4e48>, <discountCarRentalAPI.POST_URL object at 0x7f2aeacc4ef0>])[39;49;00m (25f48fd4-693b-42a0-979b-67b9bc83d6b2)
+2017-07-20 01:19:03,910 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (25f48fd4-693b-42a0-979b-67b9bc83d6b2)
+2017-07-20 01:19:03,911 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:03,920 [MainThread  ] [INFO ]  
+2017-07-20 01:19:03,923 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:04,646 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (ac506baa-66ab-4c9d-bc23-8be7e516f4cc)
+2017-07-20 01:19:04,648 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:04,656 [MainThread  ] [INFO ]  
+2017-07-20 01:19:04,657 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:04,701 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (065cdbbd-e342-4b78-899e-39e813ecf6f1)
+2017-07-20 01:19:04,702 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:04,705 [MainThread  ] [INFO ]  
+2017-07-20 01:19:04,706 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:05,012 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (385b019a-d050-4f8f-ac76-32baaec9c75d)
+2017-07-20 01:19:05,015 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (120d79a0-5053-4b77-aac4-7870fcad2949)
+2017-07-20 01:19:05,016 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:05,014 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:05,023 [MainThread  ] [INFO ]  
+2017-07-20 01:19:05,024 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:05,025 [MainThread  ] [INFO ]  
+2017-07-20 01:19:05,026 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:05,271 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (0c9502d4-f441-440a-8891-a81ae149ea1c)
+2017-07-20 01:19:05,273 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:05,282 [MainThread  ] [INFO ]  
+2017-07-20 01:19:05,284 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:05,357 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (e5e73cb8-ab4f-4c1d-8469-483d4bba40a1)
+2017-07-20 01:19:05,358 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:05,363 [MainThread  ] [INFO ]  
+2017-07-20 01:19:05,364 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:05,454 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (8779083b-dd6c-4d24-aec1-d0868209d705)
+2017-07-20 01:19:05,455 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:05,459 [MainThread  ] [INFO ]  
+2017-07-20 01:19:05,459 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:05,581 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (5b1b8622-9bd6-4cbf-9eca-720d48515997)
+2017-07-20 01:19:05,582 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:05,586 [MainThread  ] [INFO ]  
+2017-07-20 01:19:05,587 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:05,598 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (80f2a7fe-8d74-472d-9fec-37e0faec99b6)
+2017-07-20 01:19:05,599 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:05,604 [MainThread  ] [INFO ]  
+2017-07-20 01:19:05,605 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:25,538 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5f28221748>, <discountCarRentalAPI.POST_URL object at 0x7f5f282219e8>, <discountCarRentalAPI.POST_URL object at 0x7f5f27f57160>])[39;49;00m (c3fede22-ff8d-433a-b7d7-ceed1e6aa876)
+2017-07-20 01:19:25,539 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5f2732fa58>, <discountCarRentalAPI.POST_URL object at 0x7f5f2732fc88>, <discountCarRentalAPI.POST_URL object at 0x7f5f2732fda0>])[39;49;00m (5d9cedd9-370f-4056-9cde-1e61731e4a0d)
+2017-07-20 01:19:25,542 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5f2732f978>, <discountCarRentalAPI.POST_URL object at 0x7f5f2732fef0>, <discountCarRentalAPI.POST_URL object at 0x7f5f2732ff60>])[39;49;00m (6c5b736a-0f7e-4faa-9e21-9df8cf48c3f4)
+2017-07-20 01:19:25,546 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5f27335128>, <discountCarRentalAPI.POST_URL object at 0x7f5f27335278>, <discountCarRentalAPI.POST_URL object at 0x7f5f273352b0>])[39;49;00m (f16dfc62-1ea9-4a89-93c0-ecfceaf497f8)
+2017-07-20 01:19:25,554 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5f27335320>, <discountCarRentalAPI.POST_URL object at 0x7f5f273353c8>, <discountCarRentalAPI.POST_URL object at 0x7f5f27335518>])[39;49;00m (a3768b93-c7f0-4aa9-a9e1-d74a14180f8d)
+2017-07-20 01:19:25,560 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5f27335588>, <discountCarRentalAPI.POST_URL object at 0x7f5f27335668>, <discountCarRentalAPI.POST_URL object at 0x7f5f273356a0>])[39;49;00m (89181688-6172-4934-aec7-bde0174dee03)
+2017-07-20 01:19:25,563 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5f27335710>, <discountCarRentalAPI.POST_URL object at 0x7f5f273357b8>, <discountCarRentalAPI.POST_URL object at 0x7f5f27335860>])[39;49;00m (40f67494-66c5-490a-9a93-19cde1b9d463)
+2017-07-20 01:19:25,566 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5f27335908>, <discountCarRentalAPI.POST_URL object at 0x7f5f27335a20>, <discountCarRentalAPI.POST_URL object at 0x7f5f27335b00>])[39;49;00m (a26321a2-89f3-46e1-be63-8450fc38bbb2)
+2017-07-20 01:19:25,567 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5f27335b70>, <discountCarRentalAPI.POST_URL object at 0x7f5f27335be0>, <discountCarRentalAPI.POST_URL object at 0x7f5f27335cf8>])[39;49;00m (4d6dbc95-0bf8-4988-b3c8-9cec445ecbbc)
+2017-07-20 01:19:25,576 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f5f27335c50>, <discountCarRentalAPI.POST_URL object at 0x7f5f27335da0>, <discountCarRentalAPI.POST_URL object at 0x7f5f27335e80>])[39;49;00m (e30347f4-a208-4083-bfd5-8dbf9ce0f66e)
+2017-07-20 01:19:27,773 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (6c5b736a-0f7e-4faa-9e21-9df8cf48c3f4)
+2017-07-20 01:19:27,775 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:27,783 [MainThread  ] [INFO ]  
+2017-07-20 01:19:27,786 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:28,245 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (e30347f4-a208-4083-bfd5-8dbf9ce0f66e)
+2017-07-20 01:19:28,247 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:28,259 [MainThread  ] [INFO ]  
+2017-07-20 01:19:28,262 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:28,275 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (4d6dbc95-0bf8-4988-b3c8-9cec445ecbbc)
+2017-07-20 01:19:28,277 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:28,283 [MainThread  ] [INFO ]  
+2017-07-20 01:19:28,284 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:28,337 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (c3fede22-ff8d-433a-b7d7-ceed1e6aa876)
+2017-07-20 01:19:28,339 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:28,348 [MainThread  ] [INFO ]  
+2017-07-20 01:19:28,349 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:28,422 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a26321a2-89f3-46e1-be63-8450fc38bbb2)
+2017-07-20 01:19:28,427 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:28,431 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (89181688-6172-4934-aec7-bde0174dee03)
+2017-07-20 01:19:28,432 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:28,434 [MainThread  ] [INFO ]  
+2017-07-20 01:19:28,438 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:28,443 [MainThread  ] [INFO ]  
+2017-07-20 01:19:28,445 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:28,449 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a3768b93-c7f0-4aa9-a9e1-d74a14180f8d)
+2017-07-20 01:19:28,450 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:28,454 [MainThread  ] [INFO ]  
+2017-07-20 01:19:28,458 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:28,497 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (40f67494-66c5-490a-9a93-19cde1b9d463)
+2017-07-20 01:19:28,498 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:28,505 [MainThread  ] [INFO ]  
+2017-07-20 01:19:28,505 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:28,516 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (f16dfc62-1ea9-4a89-93c0-ecfceaf497f8)
+2017-07-20 01:19:28,517 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:28,520 [MainThread  ] [INFO ]  
+2017-07-20 01:19:28,521 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:19:28,538 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (5d9cedd9-370f-4056-9cde-1e61731e4a0d)
+2017-07-20 01:19:28,539 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:19:28,542 [MainThread  ] [INFO ]  
+2017-07-20 01:19:28,542 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:20:19,018 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6e9f7d2748>, <discountCarRentalAPI.POST_URL object at 0x7f6e9f7d29e8>, <discountCarRentalAPI.POST_URL object at 0x7f6e9f508128>])[39;49;00m (787b7c5c-0894-48fe-a6eb-4190f6407bc3)
+2017-07-20 01:20:19,021 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6e9e8e0a20>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e0c18>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e0be0>])[39;49;00m (47c451f9-34e7-479f-b110-42f816b3aa99)
+2017-07-20 01:20:19,023 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6e9e8e0e10>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e0eb8>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e0fd0>])[39;49;00m (bc4fafc0-6192-40aa-9263-0b5437e269f3)
+2017-07-20 01:20:19,025 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6198>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e61d0>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e62b0>])[39;49;00m (a4f31b13-55f7-44c6-8c3f-6d1178116d06)
+2017-07-20 01:20:19,026 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6320>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e63c8>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6438>])[39;49;00m (a7649f3c-d7df-432e-9e42-2e901012d42c)
+2017-07-20 01:20:19,028 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6e9e8e68d0>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e69b0>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6a58>])[39;49;00m (6548c13e-7b62-48c5-9aa5-5dfc9ac6a2a6)
+2017-07-20 01:20:19,029 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6cc0>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6d68>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6e80>])[39;49;00m (270cc45f-f655-455e-b92c-fa66e4da4052)
+2017-07-20 01:20:19,029 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6748>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6780>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6828>])[39;49;00m (46bb4e8b-4dba-4075-9008-5a7ec75fc8d3)
+2017-07-20 01:20:19,029 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6e9e8e64e0>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6588>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6630>])[39;49;00m (1e32531e-a650-4fad-a328-c3f8bf63b6c1)
+2017-07-20 01:20:19,028 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6ac8>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6b70>, <discountCarRentalAPI.POST_URL object at 0x7f6e9e8e6c18>])[39;49;00m (16389aa8-f770-4e91-88e8-2be343cc15d5)
+2017-07-20 01:20:21,315 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (787b7c5c-0894-48fe-a6eb-4190f6407bc3)
+2017-07-20 01:20:21,316 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:20:21,319 [MainThread  ] [INFO ]  
+2017-07-20 01:20:21,320 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:20:21,642 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a7649f3c-d7df-432e-9e42-2e901012d42c)
+2017-07-20 01:20:21,644 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:20:21,653 [MainThread  ] [INFO ]  
+2017-07-20 01:20:21,654 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:20:21,801 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (16389aa8-f770-4e91-88e8-2be343cc15d5)
+2017-07-20 01:20:21,803 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:20:21,811 [MainThread  ] [INFO ]  
+2017-07-20 01:20:21,813 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:20:22,227 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (1e32531e-a650-4fad-a328-c3f8bf63b6c1)
+2017-07-20 01:20:22,229 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:20:22,237 [MainThread  ] [INFO ]  
+2017-07-20 01:20:22,238 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:20:22,254 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (46bb4e8b-4dba-4075-9008-5a7ec75fc8d3)
+2017-07-20 01:20:22,255 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:20:22,266 [MainThread  ] [INFO ]  
+2017-07-20 01:20:22,268 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:20:22,374 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (270cc45f-f655-455e-b92c-fa66e4da4052)
+2017-07-20 01:20:22,375 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:20:22,383 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a4f31b13-55f7-44c6-8c3f-6d1178116d06)
+2017-07-20 01:20:22,384 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:20:22,390 [MainThread  ] [INFO ]  
+2017-07-20 01:20:22,390 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:20:22,388 [MainThread  ] [INFO ]  
+2017-07-20 01:20:22,392 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:20:22,403 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (47c451f9-34e7-479f-b110-42f816b3aa99)
+2017-07-20 01:20:22,403 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:20:22,410 [MainThread  ] [INFO ]  
+2017-07-20 01:20:22,410 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (6548c13e-7b62-48c5-9aa5-5dfc9ac6a2a6)
+2017-07-20 01:20:22,411 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:20:22,411 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:20:22,416 [MainThread  ] [INFO ]  
+2017-07-20 01:20:22,417 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:20:22,431 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (bc4fafc0-6192-40aa-9263-0b5437e269f3)
+2017-07-20 01:20:22,432 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:20:22,437 [MainThread  ] [INFO ]  
+2017-07-20 01:20:22,437 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:42:16,848 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7eff37f63748>, <discountCarRentalAPI.POST_URL object at 0x7eff37f639e8>, <discountCarRentalAPI.POST_URL object at 0x7eff37c99160>])[39;49;00m (0eb7a3f8-5bbf-4ffb-ad53-9b2ad97a5ea6)
+2017-07-20 01:42:16,849 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7eff37071ac8>, <discountCarRentalAPI.POST_URL object at 0x7eff37071c88>, <discountCarRentalAPI.POST_URL object at 0x7eff37071da0>])[39;49;00m (bef8a003-c9d0-49f2-8d38-c07fef99af1e)
+2017-07-20 01:42:16,853 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7eff37071940>, <discountCarRentalAPI.POST_URL object at 0x7eff370714e0>, <discountCarRentalAPI.POST_URL object at 0x7eff37071f60>])[39;49;00m (26d1b47c-54fb-410d-a341-e6a4fea056f8)
+2017-07-20 01:42:16,853 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7eff370771d0>, <discountCarRentalAPI.POST_URL object at 0x7eff37077278>, <discountCarRentalAPI.POST_URL object at 0x7eff370772b0>])[39;49;00m (28dcc38b-e4a3-4b8b-958d-0e570ec21d06)
+2017-07-20 01:42:16,859 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7eff37077320>, <discountCarRentalAPI.POST_URL object at 0x7eff37077438>, <discountCarRentalAPI.POST_URL object at 0x7eff37077470>])[39;49;00m (c8bdd1d1-7755-41f3-9b22-59d9e136f86c)
+2017-07-20 01:42:16,860 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7eff37077518>, <discountCarRentalAPI.POST_URL object at 0x7eff370775f8>, <discountCarRentalAPI.POST_URL object at 0x7eff37077668>])[39;49;00m (fb5a8c75-300c-4765-88ca-468a4c798451)
+2017-07-20 01:42:16,866 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7eff37077780>, <discountCarRentalAPI.POST_URL object at 0x7eff370777b8>, <discountCarRentalAPI.POST_URL object at 0x7eff37077860>])[39;49;00m (56855c4f-d59d-46a0-b527-7eb9fe2c1961)
+2017-07-20 01:42:16,868 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7eff37077978>, <discountCarRentalAPI.POST_URL object at 0x7eff37077a58>, <discountCarRentalAPI.POST_URL object at 0x7eff37077a90>])[39;49;00m (d8868377-aebc-41a4-9557-57a999152b97)
+2017-07-20 01:42:16,873 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7eff37077b00>, <discountCarRentalAPI.POST_URL object at 0x7eff37077c18>, <discountCarRentalAPI.POST_URL object at 0x7eff37077c50>])[39;49;00m (9c4617fc-f9d1-46b5-8777-6e4e028ad299)
+2017-07-20 01:42:16,876 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7eff37077d68>, <discountCarRentalAPI.POST_URL object at 0x7eff37077e10>, <discountCarRentalAPI.POST_URL object at 0x7eff37077eb8>])[39;49;00m (a58ae40e-292c-416c-99cc-cea1a3eb9caa)
+2017-07-20 01:42:20,549 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (d8868377-aebc-41a4-9557-57a999152b97)
+2017-07-20 01:42:20,549 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:42:20,553 [MainThread  ] [INFO ]  
+2017-07-20 01:42:20,553 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:42:20,573 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (28dcc38b-e4a3-4b8b-958d-0e570ec21d06)
+2017-07-20 01:42:20,574 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:42:20,573 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (26d1b47c-54fb-410d-a341-e6a4fea056f8)
+2017-07-20 01:42:20,577 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:42:20,578 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (fb5a8c75-300c-4765-88ca-468a4c798451)
+2017-07-20 01:42:20,580 [MainThread  ] [INFO ]  
+2017-07-20 01:42:20,581 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:42:20,580 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:42:20,587 [MainThread  ] [INFO ]  
+2017-07-20 01:42:20,589 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:42:20,591 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (bef8a003-c9d0-49f2-8d38-c07fef99af1e)
+2017-07-20 01:42:20,592 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:42:20,592 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (9c4617fc-f9d1-46b5-8777-6e4e028ad299)
+2017-07-20 01:42:20,596 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:42:20,599 [MainThread  ] [INFO ]  
+2017-07-20 01:42:20,599 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:42:20,595 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (c8bdd1d1-7755-41f3-9b22-59d9e136f86c)
+2017-07-20 01:42:20,604 [MainThread  ] [INFO ]  
+2017-07-20 01:42:20,605 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:42:20,606 [MainThread  ] [INFO ]  
+2017-07-20 01:42:20,607 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:42:20,608 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:42:20,611 [MainThread  ] [INFO ]  
+2017-07-20 01:42:20,612 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:42:20,654 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (56855c4f-d59d-46a0-b527-7eb9fe2c1961)
+2017-07-20 01:42:20,655 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:42:20,658 [MainThread  ] [INFO ]  
+2017-07-20 01:42:20,658 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:42:20,921 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (0eb7a3f8-5bbf-4ffb-ad53-9b2ad97a5ea6)
+2017-07-20 01:42:20,922 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:42:20,927 [MainThread  ] [INFO ]  
+2017-07-20 01:42:20,928 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:42:22,155 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a58ae40e-292c-416c-99cc-cea1a3eb9caa)
+2017-07-20 01:42:22,156 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:42:22,166 [MainThread  ] [INFO ]  
+2017-07-20 01:42:22,168 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:44:29,248 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f0f12c48978>, <discountCarRentalAPI.POST_URL object at 0x7f0f12c489e8>, <discountCarRentalAPI.POST_URL object at 0x7f0f1297e160>])[39;49;00m (053b423d-1d5f-4b7c-9885-2f645c2791f6)
+2017-07-20 01:44:29,251 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f0f11d56b00>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d56c18>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d56c50>])[39;49;00m (a4c3a851-02b0-4617-b0d3-4529af77393b)
+2017-07-20 01:44:29,253 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f0f11d569b0>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d56978>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d56f98>])[39;49;00m (eb00757c-c62a-4895-9ce3-d6b8f2e7fcb7)
+2017-07-20 01:44:29,256 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f0f11d5c198>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5c240>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5c2b0>])[39;49;00m (78760883-8fc5-4f4c-b5e5-3ee1d045dd73)
+2017-07-20 01:44:29,259 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f0f11d5c3c8>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5c470>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5c4e0>])[39;49;00m (fd6bc65c-39dc-4323-af90-76913c763ca9)
+2017-07-20 01:44:29,261 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f0f11d5c588>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5c5f8>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5c6d8>])[39;49;00m (e11872ec-ecbc-498a-8766-98759db1a1fb)
+2017-07-20 01:44:29,262 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f0f11d5c780>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5c860>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5c908>])[39;49;00m (000d4ce5-4fb9-4ce3-b7ff-46f3046ae07d)
+2017-07-20 01:44:29,266 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f0f11d5c940>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5ca58>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5cb00>])[39;49;00m (f777ad45-e597-4f81-a442-0fca08959908)
+2017-07-20 01:44:29,269 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f0f11d5cba8>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5cbe0>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5ccc0>])[39;49;00m (c3bdc9af-115e-4749-96d8-c054118cd0e8)
+2017-07-20 01:44:29,269 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<discountCarRentalAPI.POST_URL object at 0x7f0f11d5cd30>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5ce48>, <discountCarRentalAPI.POST_URL object at 0x7f0f11d5cf28>])[39;49;00m (6d4f7985-c491-4150-a8a7-c7519910197c)
+2017-07-20 01:44:32,857 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (053b423d-1d5f-4b7c-9885-2f645c2791f6)
+2017-07-20 01:44:32,858 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:44:32,860 [MainThread  ] [INFO ]  
+2017-07-20 01:44:32,861 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:44:32,866 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a4c3a851-02b0-4617-b0d3-4529af77393b)
+2017-07-20 01:44:32,866 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:44:32,869 [MainThread  ] [INFO ]  
+2017-07-20 01:44:32,869 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:44:32,902 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (eb00757c-c62a-4895-9ce3-d6b8f2e7fcb7)
+2017-07-20 01:44:32,903 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:44:32,904 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (000d4ce5-4fb9-4ce3-b7ff-46f3046ae07d)
+2017-07-20 01:44:32,905 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (e11872ec-ecbc-498a-8766-98759db1a1fb)
+2017-07-20 01:44:32,905 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:44:32,905 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:44:32,910 [MainThread  ] [INFO ]  
+2017-07-20 01:44:32,911 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:44:32,911 [MainThread  ] [INFO ]  
+2017-07-20 01:44:32,912 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (6d4f7985-c491-4150-a8a7-c7519910197c)
+2017-07-20 01:44:32,912 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:44:32,912 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:44:32,915 [MainThread  ] [INFO ]  
+2017-07-20 01:44:32,915 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:44:32,915 [MainThread  ] [INFO ]  
+2017-07-20 01:44:32,916 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:44:32,920 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (c3bdc9af-115e-4749-96d8-c054118cd0e8)
+2017-07-20 01:44:32,920 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:44:32,923 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (78760883-8fc5-4f4c-b5e5-3ee1d045dd73)
+2017-07-20 01:44:32,923 [MainThread  ] [INFO ]  
+2017-07-20 01:44:32,923 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:44:32,924 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:44:32,940 [MainThread  ] [INFO ]  
+2017-07-20 01:44:32,940 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:44:33,254 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (fd6bc65c-39dc-4323-af90-76913c763ca9)
+2017-07-20 01:44:33,255 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:44:33,264 [MainThread  ] [INFO ]  
+2017-07-20 01:44:33,265 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-20 01:44:34,561 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (f777ad45-e597-4f81-a442-0fca08959908)
+2017-07-20 01:44:34,562 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-20 01:44:34,581 [MainThread  ] [INFO ]  
+2017-07-20 01:44:34,582 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...

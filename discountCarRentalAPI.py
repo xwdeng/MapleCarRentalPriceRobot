@@ -39,10 +39,9 @@ def GetNext30DayAvailableCarsWithRate(PlaceId):
             ua.random()))
     return post_url_list
 
-
 def GetAvailableCarsWithRate(LocationId, ReturnLocationId, puDate,rDate,pickupTime, dropOffTime, userAgent):
     url = API_URL + 'GetAvailableCarsWithRate'
-    headers = HEADERS
+    headers = HEADERS.copy()
     headers['User-Agent'] = userAgent
     data = {
       "LocationId": LocationId,
@@ -55,3 +54,8 @@ def GetAvailableCarsWithRate(LocationId, ReturnLocationId, puDate,rDate,pickupTi
       "LangId": 1
     }
     return POST_URL(url, headers, data)
+
+
+
+#LOCATION_API
+#Request URL:POST https://www.discountcar.com/WebAPI/api/v1/home/GetAllLocations
