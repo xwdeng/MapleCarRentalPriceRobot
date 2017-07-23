@@ -1,0 +1,74 @@
+[INFO  - 2017-07-20T18:40:24.341Z] GhostDriver - Main - running on port 59627
+[INFO  - 2017-07-20T18:40:27.814Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-07-20T18:40:27.814Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.customHeaders:  - {}
+[INFO  - 2017-07-20T18:40:27.814Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-07-20T18:40:27.814Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e6771110-6d7a-11e7-a55f-0119bc913a95
+[ERROR - 2017-07-20T18:40:28.522Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.createElement("video").canPlayType("video/mp4")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T18:40:28.523Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - stack:
+  global code (https://www.avis.ca/car-rental/scripts/video-js.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T18:40:29.263Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - msg: ReferenceError: Can't find variable: s
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T18:40:29.263Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - stack:
+  showHideselCountryResi (https://www.avis.ca/car-rental/scripts/timeAndPlace_3.0.js:1)
+  timeNPlaceFunctions (https://www.avis.ca/car-rental/scripts/timeAndPlace_3.0.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-07-20T18:40:29.971Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.settings - {"XSSAuditingEnabled":false,"javascript[INFO  - 2017-07-20T18:44:30.996Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T18:49:30.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T18:54:30.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T18:59:30.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-07-20T19:02:06.363Z] Session [13da70d0-6d7a-11e7-9fca-45df28e6ef29] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.createElement("video").canPlayType("video/mp4")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T19:02:06.363Z] Session [13da70d0-6d7a-11e7-9fca-45df28e6ef29] - page.onError - stack:
+  global code[INFO  - 2017-07-20T19:05:24.344Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-07-20T19:07:59.802Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.createElement("video").canPlayType("video/mp4")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T19:07:59.803Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - stack:
+  global code (https://www.avis.ca/car-rental/scripts/video-js.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T19:08:00.832Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - msg: ReferenceError: Can't find variable[INFO  - 2017-07-20T19:09:30.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T19:14:30.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T19:19:31.042Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T19:24:31.042Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T19:29:31.042Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-07-20T19:29:37.128Z] Session [13da70d0-6d7a-11e7-9fca-45df28e6ef29] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.createElement("video").canPlayType("video/mp4")')
+
+  phantomjs://platform/console+[INFO  - 2017-07-20T19:30:24.375Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T19:35:24.389Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-07-20T19:35:30.850Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.createElement("video").canPlayType("video/mp4")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T19:35:30.850Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - stack:
+  global code (https://www.avis.ca/car-rental/scripts/video-js.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T19:35:31.267Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - msg: ReferenceError: Can't find variable[INFO  - 2017-07-20T19:39:31.044Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T19:44:31.044Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T19:49:31.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T19:54:31.045Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-07-20T19:57:07.945Z] Session [13da70d0-6d7a-11e7-9fca-45df28e6ef29] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.createElement("video").canPlayType("video/mp4")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T19:57:07.945Z] Session [13da70d0-6d7a-11e7-9fca-45df28e6ef29] - page.onError - stack:
+  global code[INFO  - 2017-07-20T20:00:24.393Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-07-20T20:03:02.214Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.createElement("video").canPlayType("video/mp4")')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T20:03:02.214Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - stack:
+  global code (https://www.avis.ca/car-rental/scripts/video-js.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-20T20:03:02.541Z] Session [e6771110-6d7a-11e7-a55f-0119bc913a95] - page.onError - msg: ReferenceError: Can't find variable[INFO  - 2017-07-20T20:04:31.077Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T20:09:31.076Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T20:14:31.087Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+24.437Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T20:10:24.437Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-07-20T20:15:24.437Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

@@ -7,7 +7,6 @@ import datetime
 import json
 import pprint
 
-
 report = ''
 def add_to_report(location_num):
          report_gen_time_str= time.strftime("%a %Y-%m-%d %H:%M:%S") #strftime("%a, %d %b %Y %H:%M:%S +0000", gmtime())

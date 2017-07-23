@@ -23,7 +23,7 @@ def count_words_at_url(url):
     resp = requests.get(url)
     time.sleep(5)
     print('test' + str(threading.get_ident()))
-    return "{py:" + str(len(resp.text.split())) + "}";
+    return "{py:" + str(len(resp.text.split())) + "}"
 
 
 

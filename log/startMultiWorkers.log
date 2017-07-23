@@ -1030,3 +1030,313 @@
 2017-07-20 01:44:34,562 [MainThread  ] [INFO ]  Result is kept for 500 seconds
 2017-07-20 01:44:34,581 [MainThread  ] [INFO ]  
 2017-07-20 01:44:34,582 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,590 [MainThread  ] [INFO ]  Starting multi-workers...
+2017-07-21 18:36:29,622 [MainThread  ] [INFO ]    Append thread:3390
+2017-07-21 18:36:29,623 [MainThread  ] [INFO ]    Append thread:3399
+2017-07-21 18:36:29,623 [MainThread  ] [INFO ]    Append thread:3401
+2017-07-21 18:36:29,624 [MainThread  ] [INFO ]    Append thread:3392
+2017-07-21 18:36:29,623 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,623 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,624 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,625 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,626 [MainThread  ] [INFO ]    Append thread:3403
+2017-07-21 18:36:29,632 [MainThread  ] [INFO ]    Append thread:3394
+2017-07-21 18:36:29,633 [MainThread  ] [INFO ]    Append thread:3387
+2017-07-21 18:36:29,634 [MainThread  ] [INFO ]    Append thread:3385
+2017-07-21 18:36:29,634 [MainThread  ] [INFO ]    Append thread:3396
+2017-07-21 18:36:29,635 [MainThread  ] [INFO ]    Append thread:3389
+2017-07-21 18:36:29,635 [MainThread  ] [INFO ]    Append thread:3398
+2017-07-21 18:36:29,636 [MainThread  ] [INFO ]    Append thread:3391
+2017-07-21 18:36:29,636 [MainThread  ] [INFO ]    Append thread:3400
+2017-07-21 18:36:29,637 [MainThread  ] [INFO ]    Append thread:3402
+2017-07-21 18:36:29,635 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,626 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,638 [MainThread  ] [INFO ]    Append thread:3393
+2017-07-21 18:36:29,641 [MainThread  ] [INFO ]    Append thread:3404
+2017-07-21 18:36:29,642 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,644 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,645 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,641 [MainThread  ] [INFO ]    Append thread:3386
+2017-07-21 18:36:29,651 [MainThread  ] [INFO ]    Append thread:3395
+2017-07-21 18:36:29,651 [MainThread  ] [INFO ]    Append thread:3388
+2017-07-21 18:36:29,652 [MainThread  ] [INFO ]    Append thread:3397
+2017-07-21 18:36:29,653 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3397' started, version 0.8.0
+2017-07-21 18:36:29,656 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,658 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,661 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,649 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,649 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,639 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,671 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3398' started, version 0.8.0
+2017-07-21 18:36:29,672 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,663 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,672 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,673 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,673 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,690 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3386' started, version 0.8.0
+2017-07-21 18:36:29,675 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,675 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,676 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,678 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,679 [MainThread  ] [INFO ]  this is worker
+2017-07-21 18:36:29,694 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,695 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3396' started, version 0.8.0
+2017-07-21 18:36:29,696 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3399' started, version 0.8.0
+2017-07-21 18:36:29,708 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3385' started, version 0.8.0
+2017-07-21 18:36:29,699 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3387' started, version 0.8.0
+2017-07-21 18:36:29,707 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,708 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3388' started, version 0.8.0
+2017-07-21 18:36:29,708 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,708 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,712 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,709 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3395' started, version 0.8.0
+2017-07-21 18:36:29,714 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,710 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,711 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,713 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,713 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,714 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,719 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,720 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,724 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,718 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,727 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3390' started, version 0.8.0
+2017-07-21 18:36:29,718 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,722 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,729 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,721 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3391' started, version 0.8.0
+2017-07-21 18:36:29,722 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3392' started, version 0.8.0
+2017-07-21 18:36:29,725 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,725 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,733 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,726 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,734 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,725 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,727 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,735 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,728 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3394' started, version 0.8.0
+2017-07-21 18:36:29,729 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,730 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,731 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,739 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,742 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,736 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,744 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,745 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,745 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,731 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3389' started, version 0.8.0
+2017-07-21 18:36:29,746 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,747 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,731 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3404' started, version 0.8.0
+2017-07-21 18:36:29,747 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,747 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,732 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3403' started, version 0.8.0
+2017-07-21 18:36:29,733 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,734 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,737 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,749 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,744 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,750 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,750 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,745 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,744 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,753 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,747 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,749 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,749 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,750 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,750 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,751 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,754 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,756 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,754 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3393' started, version 0.8.0
+2017-07-21 18:36:29,755 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,754 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,760 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,760 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,756 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3400' started, version 0.8.0
+2017-07-21 18:36:29,756 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,757 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,757 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,763 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,763 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,763 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,757 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,764 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,760 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,764 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,765 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,759 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3402' started, version 0.8.0
+2017-07-21 18:36:29,761 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,762 [MainThread  ] [INFO ]  RQ worker 'rq:worker:ubuntu-xenial.3401' started, version 0.8.0
+2017-07-21 18:36:29,763 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,764 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,765 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,766 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,770 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,767 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,770 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,768 [MainThread  ] [INFO ]  Cleaning registries for queue: high
+2017-07-21 18:36:29,769 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,771 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,771 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,772 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,773 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,773 [MainThread  ] [INFO ]  Cleaning registries for queue: default
+2017-07-21 18:36:29,773 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,774 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,774 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,774 [MainThread  ] [INFO ]  Cleaning registries for queue: low
+2017-07-21 18:36:29,776 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,778 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:36:29,778 [MainThread  ] [INFO ]  
+2017-07-21 18:36:29,779 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:01,523 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2278>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2390>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b23c8>])[39;49;00m (28b9b11c-d59c-4b1f-97ca-a2a94f336ab8)
+2017-07-21 18:37:01,529 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39abb00>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39abd68>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39abd30>])[39;49;00m (72db7634-9fff-4571-b2e3-0295d1c1e435)
+2017-07-21 18:37:01,523 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d4d0d198>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d48a0be0>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d45d42b0>])[39;49;00m (aa970fc4-40da-4755-be0f-bd1e0234c400)
+2017-07-21 18:37:01,529 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2898>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2940>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b29e8>])[39;49;00m (d6747a13-f0d4-4827-ae8b-86ae7a191b68)
+2017-07-21 18:37:01,535 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2c18>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2cc0>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2da0>])[39;49;00m (b08924db-821b-4ad8-abbc-abbbde7a1d11)
+2017-07-21 18:37:01,548 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39aba58>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39aba90>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2160>])[39;49;00m (ff8abd29-8b5c-44f4-8dae-a912aae1a5e8)
+2017-07-21 18:37:01,540 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2630>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b26d8>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2780>])[39;49;00m (18965d8b-959e-45ef-88c3-4f72816c8c95)
+2017-07-21 18:37:01,542 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2a58>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2b00>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2be0>])[39;49;00m (860357b4-da7b-4afb-94ff-dd8edcb54cd0)
+2017-07-21 18:37:01,549 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b24a8>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2588>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b25f8>])[39;49;00m (f7f77748-332a-4a19-affe-73b075bcd39b)
+2017-07-21 18:37:01,542 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2e80>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2f60>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f84d39b2fd0>])[39;49;00m (038af39f-5046-4d99-83eb-76cd2d410561)
+2017-07-21 18:37:06,700 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (aa970fc4-40da-4755-be0f-bd1e0234c400)
+2017-07-21 18:37:06,701 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:06,710 [MainThread  ] [INFO ]  
+2017-07-21 18:37:06,711 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:06,963 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (ff8abd29-8b5c-44f4-8dae-a912aae1a5e8)
+2017-07-21 18:37:06,968 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:06,972 [MainThread  ] [INFO ]  
+2017-07-21 18:37:06,973 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:06,984 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (72db7634-9fff-4571-b2e3-0295d1c1e435)
+2017-07-21 18:37:06,985 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:06,990 [MainThread  ] [INFO ]  
+2017-07-21 18:37:06,991 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:07,000 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (18965d8b-959e-45ef-88c3-4f72816c8c95)
+2017-07-21 18:37:07,000 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:07,005 [MainThread  ] [INFO ]  
+2017-07-21 18:37:07,006 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:07,046 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (f7f77748-332a-4a19-affe-73b075bcd39b)
+2017-07-21 18:37:07,048 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:07,047 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (b08924db-821b-4ad8-abbc-abbbde7a1d11)
+2017-07-21 18:37:07,052 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:07,054 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (28b9b11c-d59c-4b1f-97ca-a2a94f336ab8)
+2017-07-21 18:37:07,056 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:07,062 [MainThread  ] [INFO ]  
+2017-07-21 18:37:07,068 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:07,063 [MainThread  ] [INFO ]  
+2017-07-21 18:37:07,070 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:07,072 [MainThread  ] [INFO ]  
+2017-07-21 18:37:07,072 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:07,132 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (038af39f-5046-4d99-83eb-76cd2d410561)
+2017-07-21 18:37:07,132 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:07,135 [MainThread  ] [INFO ]  
+2017-07-21 18:37:07,136 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:07,169 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (860357b4-da7b-4afb-94ff-dd8edcb54cd0)
+2017-07-21 18:37:07,169 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:07,174 [MainThread  ] [INFO ]  
+2017-07-21 18:37:07,174 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:11,210 [MainThread  ] [WARNI]  Moving job to 'failed' queue (work-horse terminated unexpectedly; waitpid returned 139)
+2017-07-21 18:37:11,212 [MainThread  ] [INFO ]  
+2017-07-21 18:37:11,212 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:12,575 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71636731d0>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f7163198b70>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f7162ecc278>])[39;49;00m (eef0a7db-76ea-4e7f-b417-edee966a3db3)
+2017-07-21 18:37:12,576 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622a5a90>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622a5400>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac0f0>])[39;49;00m (c32e5d2e-7fe4-49fc-8a87-a44bd0d5736e)
+2017-07-21 18:37:12,580 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac320>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac390>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac3c8>])[39;49;00m (1de68481-2066-4940-8219-986816ec2e1e)
+2017-07-21 18:37:12,582 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622a5a58>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622a5dd8>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622a5ef0>])[39;49;00m (b882bd0c-8cba-4dd5-a445-e2c084c7d49c)
+2017-07-21 18:37:12,592 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac470>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac588>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac5c0>])[39;49;00m (b6f24c51-98e4-4ae3-a601-36d1d676aa99)
+2017-07-21 18:37:12,597 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac6d8>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac710>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac7b8>])[39;49;00m (e0ee271d-ad04-4649-b7e2-a6b419fbd31b)
+2017-07-21 18:37:12,598 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac8d0>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac908>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ac9e8>])[39;49;00m (41f5ba77-eab7-4cec-944d-1a0acc66be7b)
+2017-07-21 18:37:12,605 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622acac8>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622acb00>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622acc50>])[39;49;00m (39226d9b-69a2-449e-a630-e29eac3f8fef)
+2017-07-21 18:37:12,611 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622acc88>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622acd30>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622ace10>])[39;49;00m (6bd07467-3ac6-4d89-ad86-289c5afd7823)
+2017-07-21 18:37:12,618 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622aceb8>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622acf98>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f71622acfd0>])[39;49;00m (e3173dd9-b241-4876-873b-1eac1a404bc9)
+2017-07-21 18:37:16,724 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (e3173dd9-b241-4876-873b-1eac1a404bc9)
+2017-07-21 18:37:16,724 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:16,734 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (e0ee271d-ad04-4649-b7e2-a6b419fbd31b)
+2017-07-21 18:37:16,735 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:16,738 [MainThread  ] [INFO ]  
+2017-07-21 18:37:16,739 [MainThread  ] [INFO ]  
+2017-07-21 18:37:16,740 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:16,740 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:16,745 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (1de68481-2066-4940-8219-986816ec2e1e)
+2017-07-21 18:37:16,746 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:16,750 [MainThread  ] [INFO ]  
+2017-07-21 18:37:16,750 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:16,753 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (c32e5d2e-7fe4-49fc-8a87-a44bd0d5736e)
+2017-07-21 18:37:16,754 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:16,758 [MainThread  ] [INFO ]  
+2017-07-21 18:37:16,759 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:16,768 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (39226d9b-69a2-449e-a630-e29eac3f8fef)
+2017-07-21 18:37:16,769 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:16,770 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (b882bd0c-8cba-4dd5-a445-e2c084c7d49c)
+2017-07-21 18:37:16,772 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:16,776 [MainThread  ] [INFO ]  
+2017-07-21 18:37:16,776 [MainThread  ] [INFO ]  
+2017-07-21 18:37:16,776 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:16,776 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:16,793 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (6bd07467-3ac6-4d89-ad86-289c5afd7823)
+2017-07-21 18:37:16,797 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:16,802 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (eef0a7db-76ea-4e7f-b417-edee966a3db3)
+2017-07-21 18:37:16,802 [MainThread  ] [INFO ]  
+2017-07-21 18:37:16,802 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:16,802 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:16,806 [MainThread  ] [INFO ]  
+2017-07-21 18:37:16,806 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:16,807 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (b6f24c51-98e4-4ae3-a601-36d1d676aa99)
+2017-07-21 18:37:16,808 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:16,811 [MainThread  ] [INFO ]  
+2017-07-21 18:37:16,811 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:17,480 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (41f5ba77-eab7-4cec-944d-1a0acc66be7b)
+2017-07-21 18:37:17,482 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:17,487 [MainThread  ] [INFO ]  
+2017-07-21 18:37:17,488 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:53,334 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e077bd1d0>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e072e2b70>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e07016278>])[39;49;00m (a1f7d53c-8554-4842-a2e6-472df92dbe55)
+2017-07-21 18:37:53,334 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063eff98>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063ef630>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6208>])[39;49;00m (93a0a574-5f9f-48f8-ba9a-2a4faf3147d2)
+2017-07-21 18:37:53,336 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f62e8>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6358>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6470>])[39;49;00m (fe47016b-1fe8-47b2-b31b-db77ef1c6585)
+2017-07-21 18:37:53,334 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063efb38>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063efd68>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063efef0>])[39;49;00m (9476e1a4-4213-4b84-acff-ab4b5e60a1dd)
+2017-07-21 18:37:53,336 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f64e0>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6518>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f65c0>])[39;49;00m (b8028abf-12e7-4b5d-b54a-238b7120f2b4)
+2017-07-21 18:37:53,340 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6668>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6780>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6828>])[39;49;00m (46bb26cd-26d8-40d2-8113-77ad8b1a2009)
+2017-07-21 18:37:53,344 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6860>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6978>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6a58>])[39;49;00m (a0c47ce7-78f6-45ee-81e9-de6e6281222a)
+2017-07-21 18:37:53,347 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6a90>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6b70>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6ba8>])[39;49;00m (010d0ba0-bd6c-405a-ad71-0833e2ad83cb)
+2017-07-21 18:37:53,348 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6c88>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6cf8>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6e48>])[39;49;00m (558ee0d0-20fc-4e6d-abed-946b18bc7305)
+2017-07-21 18:37:53,351 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mmy_module.processPostUrlList([<carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6e80>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6f60>, <carrentalAPI.discountCarRentalAPI.POST_URL object at 0x7f8e063f6f98>])[39;49;00m (fa707866-1892-45e4-95f0-ec805ecd9ee1)
+2017-07-21 18:37:57,193 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (b8028abf-12e7-4b5d-b54a-238b7120f2b4)
+2017-07-21 18:37:57,194 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:57,212 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (558ee0d0-20fc-4e6d-abed-946b18bc7305)
+2017-07-21 18:37:57,213 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:57,216 [MainThread  ] [INFO ]  
+2017-07-21 18:37:57,217 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:57,218 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (93a0a574-5f9f-48f8-ba9a-2a4faf3147d2)
+2017-07-21 18:37:57,221 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a1f7d53c-8554-4842-a2e6-472df92dbe55)
+2017-07-21 18:37:57,222 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:57,224 [MainThread  ] [INFO ]  
+2017-07-21 18:37:57,238 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:57,227 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:57,239 [MainThread  ] [INFO ]  
+2017-07-21 18:37:57,243 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:57,248 [MainThread  ] [INFO ]  
+2017-07-21 18:37:57,248 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:57,254 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (010d0ba0-bd6c-405a-ad71-0833e2ad83cb)
+2017-07-21 18:37:57,254 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:57,257 [MainThread  ] [INFO ]  
+2017-07-21 18:37:57,260 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:57,262 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (fa707866-1892-45e4-95f0-ec805ecd9ee1)
+2017-07-21 18:37:57,263 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:57,268 [MainThread  ] [INFO ]  
+2017-07-21 18:37:57,268 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (fe47016b-1fe8-47b2-b31b-db77ef1c6585)
+2017-07-21 18:37:57,268 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:57,270 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:57,273 [MainThread  ] [INFO ]  
+2017-07-21 18:37:57,275 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:57,285 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (46bb26cd-26d8-40d2-8113-77ad8b1a2009)
+2017-07-21 18:37:57,286 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:57,288 [MainThread  ] [INFO ]  
+2017-07-21 18:37:57,289 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:57,325 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (9476e1a4-4213-4b84-acff-ab4b5e60a1dd)
+2017-07-21 18:37:57,326 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:57,330 [MainThread  ] [INFO ]  
+2017-07-21 18:37:57,330 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
+2017-07-21 18:37:58,708 [MainThread  ] [INFO ]  [32mdefault[39;49;00m: [34mJob OK[39;49;00m (a0c47ce7-78f6-45ee-81e9-de6e6281222a)
+2017-07-21 18:37:58,711 [MainThread  ] [INFO ]  Result is kept for 500 seconds
+2017-07-21 18:37:58,717 [MainThread  ] [INFO ]  
+2017-07-21 18:37:58,717 [MainThread  ] [INFO ]  *** Listening on [32mhigh, default, low[39;49;00m...
